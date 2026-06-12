@@ -108,4 +108,115 @@ flowchart TD
 
 ---
 
+## Code Walkthrough
+
+### `ingestion_pipeline.py` — load → chunk → embed → store
+
+`main()` calls three functions in order; each is one stage of the ingestion half of the diagram above.
+
+**1. Load.** Read every `*.txt` under `docs/` as LangChain `Document`s.
+
+```python
+def load_documents(docs_path="docs"):
+    ...
+    loader = DirectoryLoader(docs_path, glob="*.txt", loader_cls=TextLoader)
+    documents = loader.load()
+    ...
+    return documents
+```
+
+Here that's `google.txt` and `nvidia.txt`.
+
+**2. Chunk.** Character-split each document into ≤800-char pieces.
+
+```python
+def split_documents(documents, chunk_size=800, chunk_overlap=0):
+    text_splitter = CharacterTextSplitter(
+        chunk_size=chunk_size, chunk_overlap=chunk_overlap
+    )
+    chunks = text_splitter.split_documents(documents)
+    ...
+    return chunks
+```
+
+This is strategy 1a from [Chapter 1](01-chunking.md), now applied to real documents instead of a toy string.
+
+**3. Embed + store.** Turn each chunk into a vector and persist it in Chroma.
+
+```python
+def create_embeddings(chunks, persist_directory="db/chroma_db"):
+    embedding_model = HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-MiniLM-L6-v2"
+    )
+    vector_store = Chroma.from_documents(
+        documents=chunks,
+        embedding=embedding_model,
+        persist_directory=persist_directory,
+        collection_metadata={"hnsw:space": "cosine"},
+    )
+    return vector_store
+```
+
+The `embedding_model` is the bridge between text and the vector store — the same model must be reused at query time so questions and chunks land in the same vector space. The store is written to disk at `db/chroma_db` with cosine distance.
+
+**4. Orchestrate.** `main()` just chains the three stages.
+
+```python
+def main():
+    documents = load_documents(docs_path="docs")
+    chunks = split_documents(documents)
+    vector_store = create_embeddings(chunks)
+```
+
+### `retrieval_pipeline.py` — query → retrieve → prompt → answer
+
+This script runs at module level (no functions) and is the retrieval-and-generation half of the diagram.
+
+**1. Reopen the store.** Reconnect to the same `db/chroma_db`, with the same embedding model.
+
+```python
+db = Chroma(
+    persist_directory=persist_directory,
+    embedding_function=embedding_model,
+    collection_metadata={"hnsw:space": "cosine"},
+)
+```
+
+**2. Retrieve.** Embed the question and pull the 3 nearest chunks.
+
+```python
+query = "What happened to NVIDIA in 2023?"
+retriever = db.as_retriever(search_kwargs={"k": 3})
+relevant_docs = retriever.invoke(query)
+```
+
+A commented-out alternative in the file swaps in a `similarity_score_threshold` retriever that *also* drops weak matches below a score.
+
+**3. Build the grounded prompt.** Stuff the retrieved chunks into the prompt and constrain the answer to them.
+
+```python
+combined_input = f"""Based on the following retrieved documents, answer the question: {query}
+
+Documents:
+{chr(10).join([doc.page_content for doc in relevant_docs])}
+Please provide a concise answer based on the above documents. If you cant find the answer in the documents, say you don't know.
+"""
+```
+
+The "say you don't know" instruction is what keeps RAG grounded — it tells Claude not to fall back on training memory.
+
+**4. Generate.** Send a system + human message pair and print the answer.
+
+```python
+model = ChatAnthropic(model="claude-haiku-4-5")
+messages = [
+    SystemMessage(content="You are a helpful assistant that answers questions based on the provided documents."),
+    HumanMessage(content=combined_input),
+]
+result = model.invoke(messages)
+print(f"Answer: {result.content}")
+```
+
+---
+
 [← Chapter 1 — Chunking](01-chunking.md) · [Handbook contents](../README.md#the-handbook) · [Next: Chapter 3 — Conversational RAG →](03-conversational-rag.md)

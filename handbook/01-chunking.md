@@ -83,4 +83,110 @@ This chapter demonstrates four strategies, from simplest to most sophisticated. 
 
 ---
 
+## Code Walkthrough
+
+### `character_text_splitter.py` — three splitters on one sample
+
+The script runs top to bottom, feeding the same `test_text` (a few short paragraphs separated by blank lines) to each strategy in turn.
+
+**1. Character splitting (1a).** Split only on the blank-line separator, packing pieces up to 100 chars.
+
+```python
+character_splitter = CharacterTextSplitter(
+    separator="\n\n",
+    chunk_size=100,
+    chunk_overlap=0,
+)
+chunks = character_splitter.split_text(test_text)
+```
+
+Because it never cuts *inside* a paragraph, any single paragraph longer than 100 chars stays whole — `chunk_size` is a target, not a hard cap, when the separator doesn't line up.
+
+**2. Recursive splitting (1b).** Try a list of separators from coarse to fine.
+
+```python
+recursive_splitter = RecursiveCharacterTextSplitter(
+    separator=["\n\n", "\n", " ", ""],
+    chunk_size=100,
+    chunk_overlap=0,
+)
+chunks2 = recursive_splitter.split_text(test_text)
+```
+
+It recurses to a finer separator (paragraph → line → word → char) only when a chunk is still too big, so a long paragraph gets broken at spaces. **Heads-up:** the keyword should be `separators` (plural); as written, `separator` is ignored and the splitter falls back to its defaults.
+
+**3. Semantic chunking (1c).** Split where the *meaning* between sentences shifts.
+
+```python
+semantic_splitter = SemanticChunker(
+    embeddings=HuggingFaceEmbeddings(
+        model_name="sentence-transformers/all-MiniLM-L6-v2",
+        breakpoint_thresold_type="percentile",
+        breakpoint_thresold_amount=70,
+    ),
+)
+chunks3 = semantic_splitter.split_text(test_text)
+```
+
+It embeds each sentence and splits where adjacent-sentence embedding distance spikes. **Heads-up:** the `breakpoint_*` args belong on `SemanticChunker` itself (and are spelled `breakpoint_threshold_type` / `_amount`); here they're passed into `HuggingFaceEmbeddings` and misspelled, so they have no effect and the chunker uses defaults.
+
+Each strategy is followed by the same loop that prints every chunk and its length, so you can eyeball how the boundaries differ:
+
+```python
+for i, chunk in enumerate(chunks, 1):
+    print(f"Chunk {i}: ({len(chunk)} characters)")
+    print(f"Chunk {i}:\n{chunk}\n")
+```
+
+### `agentic_chunking.py` — let the LLM place the splits (1d)
+
+**1. Model + input.** A Haiku model and a short multi-section sample (`tesla_text`).
+
+```python
+llm = ChatAnthropic(model="claude-haiku-4-5")
+tesla_text = """Tesla's Q3 Results ... reduce costs."""
+```
+
+**2. The instruction prompt.** Ask the model to insert a literal marker at each boundary it chooses.
+
+```python
+prompt = f"""
+You are a text chunking expert. Split this text into logical chunks.
+
+Rules:
+- Each chunk should be around 200 characters or less
+- Split at natural topic boundaries
+- Keep related information together
+- Put "<<<SPLIT>>>" between chunks
+
+Text:
+{tesla_text}
+...
+"""
+```
+
+**3. Call the model, then split on the marker.**
+
+```python
+response = llm.invoke(prompt)
+marked_text = response.content
+chunks = marked_text.split("<<<SPLIT>>>")
+```
+
+The model returns the original text with `<<<SPLIT>>>` tokens inserted; the code recovers the chunks by splitting on that token.
+
+**4. Clean up and print.**
+
+```python
+clean_chunks = []
+for chunk in chunks:
+    cleaned = chunk.strip()
+    if cleaned:  # Only keep non-empty chunks
+        clean_chunks.append(cleaned)
+```
+
+Trims whitespace and drops empty pieces. Because the boundaries come from an LLM, the output varies run-to-run and should be validated — the trade-off called out above.
+
+---
+
 [← Handbook contents](../README.md#the-handbook) · [Next: Chapter 2 — The RAG Pipeline →](02-rag-pipeline.md)
