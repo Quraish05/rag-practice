@@ -1,0 +1,29 @@
+# Glossary
+
+> Part of the [RAG Hands-On handbook](../README.md#the-handbook). Plain-English definitions of the terms used across all chapters.
+
+- **RAG (Retrieval-Augmented Generation)** — answering a question by first retrieving relevant documents, then having an LLM generate the answer from them.
+- **Chunk** — a small slice of a document; the unit that gets embedded and retrieved.
+- **Chunk size** — the maximum length (in characters here) of a chunk.
+- **Chunk overlap** — characters repeated between consecutive chunks so context isn't lost at the boundary.
+- **Separator** — the string a splitter cuts on (e.g. `"\n\n"` for paragraphs).
+- **Embedding** — a numeric vector representing the meaning of a piece of text.
+- **Vector store** — a database that stores embeddings and finds the nearest ones to a query.
+- **Cosine similarity** — a measure of how close two vectors point in the same direction; used to rank chunk relevance.
+- **HNSW** — Hierarchical Navigable Small World, the index algorithm Chroma uses for fast nearest-neighbor search.
+- **top-k** — the number of most-similar chunks retrieved per query (here, 3).
+- **Retriever** — the object that turns a query into a set of relevant chunks (`db.as_retriever(...)`).
+- **Semantic chunking** — splitting where the *meaning* between sentences shifts, detected via embedding distance.
+- **Agentic chunking** — letting an LLM decide where to split the text.
+- **Query rewriting** — using the LLM to turn a conversational follow-up into a standalone search query.
+- **Context window** — the maximum amount of text an LLM can consider in one request.
+- **Partitioning** — splitting a PDF into typed elements (titles, paragraphs, tables, images) rather than one flat string.
+- **`hi_res` strategy** — `unstructured`'s high-resolution mode that runs OCR + layout detection to recover tables and images accurately.
+- **Title-based chunking** — grouping elements into chunks that break at section titles (`chunk_by_title`).
+- **Multimodal / vision summary** — a searchable text description of a chunk's tables and images, written by a vision LLM and embedded in place of (a copy of) the raw content.
+- **Base64 image payload** — an image encoded as text so it can be embedded in JSON metadata and passed inline to a vision model.
+- **Multimodal RAG** — RAG where retrieved context and the final prompt include images and tables, not just text.
+
+---
+
+[← Chapter 4 — Multimodal RAG](04-multimodal-rag.md) · [Handbook contents](../README.md#the-handbook)
