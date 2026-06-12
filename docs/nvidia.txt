@@ -1,0 +1,324 @@
+Nvidia Corporation[a] (/ɛnˈvɪdiə/ en-VID-ee-ə) is an American multinational technology company headquartered in Santa Clara, California. The company develops graphics processing units (GPUs), systems on chips (SoCs), and application programming interfaces (APIs) for data science, high-performance computing, video games, and mobile and automotive applications.[5][6] Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, Nvidia has been widely described as a Big Tech company.
+
+Originally focused on GPUs for video games, Nvidia broadened their use into other markets, including artificial intelligence (AI), professional visualization, and supercomputing. The company's product lines include GeForce GPUs for gaming and creative workloads, and professional GPUs for edge computing, scientific research, and industrial applications. As of the first quarter of 2025, Nvidia held a 92% share of the discrete desktop and laptop GPU market.[7][8]
+
+In the early 2000s, the company invested over a billion dollars to develop CUDA, a software platform and API that enabled GPUs to run massively parallel programs for a broad range of compute-intensive applications.[9][10][11] As a result, as of 2025, Nvidia controlled more than 80% of the market for GPUs used in training and deploying AI models,[9] and provided chips for over 75% of the world's TOP500 supercomputers.[1] The company has also expanded into gaming hardware and services, with products such as the Shield Portable, Shield Tablet, and Shield TV, and operates the GeForce Now cloud gaming service.[12] Furthermore, it has developed the Tegra line of mobile processors for smartphones, tablets, and automotive infotainment systems.[13][14][15]
+
+In 2023, Nvidia became the seventh U.S. company to reach a US$1 trillion valuation.[16] In 2025, driven by soaring global demand for AI data center hardware in the midst of the AI boom, Nvidia became the first company in the world to surpass US$4 trillion[17][18] and US$5 trillion in market capitalization.[19] For its strength, size and market capitalization, Nvidia has been selected as one of Bloomberg's "Magnificent Seven", the seven biggest companies on the stock market in these regards.[20]
+
+History
+Founding
+
+The Denny's roadside diner in San Jose, California, where Nvidia's three co-founders agreed to start the company in late 1992
+
+Nvidia's former headquarters which was home to the company through most of its pre-AI period (still in use)
+
+Aerial view of Endeavor, the first of the two new Nvidia headquarters buildings, in Santa Clara, California, in 2017
+
+Entrance of Endeavor headquarters building in 2018
+Nvidia was founded on April 5, 1993,[21][22][23] by Jensen Huang, a Taiwanese-American electrical engineer who was previously the director of CoreWare at LSI Logic and a microprocessor designer at AMD; Chris Malachowsky, an engineer who worked at Sun Microsystems; and Curtis Priem, who was previously a senior staff engineer and graphics chip designer at IBM and Sun Microsystems.[24][25] In late 1992, the three men agreed to start the company in a meeting at a Denny's roadside diner on Berryessa Road in East San Jose.[26][27][28][29]
+
+At the time, Malachowsky and Priem were frustrated with Sun's management and were looking to leave, but Huang was on "firmer ground",[30] in that he was already running his own division at LSI.[27] The three co-founders discussed a vision of the future which was so compelling that Huang decided to leave LSI[30] and become the chief executive officer of their new startup.[27]
+
+The three co-founders envisioned graphics-based processing as the best trajectory for tackling challenges that had eluded general-purpose computing methods.[30] As Huang later explained: "We also observed that video games were simultaneously one of the most computationally challenging problems and would have incredibly high sales volume. Those two conditions don't happen very often. Video games was our killer app - a flywheel to reach large markets funding huge R&D to solve massive computational problems."[30]
+
+The first problem was who would quit first. Huang's wife, Lori, did not want him to resign from LSI unless Malachowsky resigned from Sun at the same time, and Malachowsky's wife, Melody, felt the same way about Huang.[31] Priem broke that deadlock by resigning first from Sun, effective December 31, 1992.[31] According to Priem, this put pressure on Huang and Malachowsky to not leave him to "flail alone", so they gave notice too.[32] Huang left LSI and "officially joined Priem on February 17", which was also Huang's 30th birthday, while Malachowsky left Sun in early March.[32] In early 1993, the three founders began working together on their new startup in Priem's townhouse in Fremont, California.[33]
+
+With $40,000 in the bank (equivalent to $89,000 in 2025), the company was born.[30] The company subsequently received $20 million of venture capital funding from Sequoia Capital, Sutter Hill Ventures, and others.[34]
+
+During the late 1990s, Nvidia was one of 70 startup companies pursuing the idea that graphics acceleration for video games was the path to the future.[26] Only two survived: Nvidia and ATI Technologies, the latter of which merged into AMD.[26]
+
+Nvidia initially had no name.[35] Priem's first idea was "Primal Graphics", a syllabic abbreviation of two of the founders' last names, but that left out Huang.[35] They soon discovered it was impossible to create a workable name with syllables from all three founders' names, after considering "Huaprimal", "Prihuamal", "Malluapri", etc.[35] The next idea came from Priem's idea for the name of Nvidia's first product.[35] Priem originally wanted to call it the "GXNV", as in the "next version" of the GX graphics chips which he had worked on at Sun.[33] Then Huang told Priem to "drop the GX", resulting in the name "NV".[33] Priem made a list of words with the letters "NV" in them.[35] At one point, Malachowsky and Priem wanted to call the company NVision, but that name was already taken by a manufacturer of toilet paper.[27] Both Priem[35] and Huang have taken credit for coming up with the name Nvidia,[27] from "invidia", the Latin word for "envy".[30]
+
+After the company outgrew Priem's townhouse, its original headquarters office was in Sunnyvale, California.[30]
+
+First graphics accelerator
+Nvidia's first graphics accelerator, the NV1, was designed to process quadrilateral primitives (forward texture mapping), a feature that set it apart from competitors, who preferred triangle primitives.[27] However, when Microsoft introduced the DirectX platform, it chose not to support any other graphics software and announced that its Direct3D API would exclusively support triangles.[27][36] As a result, the NV1 failed to gain traction in the market.[37]
+
+Nvidia had also entered into a partnership with Sega to supply the graphics chip for the Dreamcast console and worked on the project for about a year. However, Nvidia's technology was already lagging behind competitors. This placed the company in a difficult position: continue working on a chip that was likely doomed to fail or abandon the project, risking financial collapse.[38]
+
+In a pivotal moment, Sega's president, Shoichiro Irimajiri, visited Huang in person to inform him that Sega had decided to choose another vendor for the Dreamcast. However, Irimajiri believed in Nvidia's potential and persuaded Sega's management to invest $5 million into the company. Huang later reflected that this funding was all that kept Nvidia afloat, and that Irimajiri's "understanding and generosity gave us six months to live".[38]
+
+In 1996, Huang laid off more than half of Nvidia's employees-reducing headcount from 100 to 40-and focused the company's remaining resources on developing a graphics accelerator product optimized for processing triangle primitives: the RIVA 128.[27][36] By the time the RIVA 128 was released in August 1997, Nvidia had only enough money left for one month's payroll.[27] The sense of impending failure became so pervasive that it gave rise to Nvidia's unofficial company motto: "Our company is thirty days from going out of business."[27] Huang began internal presentations to Nvidia staff with those words for many years.[27]
+
+Nvidia sold about a million RIVA 128 units within four months,[27] and used the revenue to fund development of its next generation of products.[36] In 1998, the release of the RIVA TNT helped solidify Nvidia's reputation as a leader in graphics technology.[39]
+
+Public company
+Nvidia went public on January 22, 1999.[40][41][42] Investing in Nvidia after it had already failed to deliver on its contract turned out to be Irimajiri's best decision as Sega's president. After Irimajiri left Sega in 2000, Sega sold its Nvidia stock for $15 million.[38]
+
+In late 1999, Nvidia released the GeForce 256 (NV10), its first product expressly marketed as a GPU, which was most notable for introducing onboard transformation and lighting (T&L) to consumer-level 3D hardware. Running at 120 MHz and featuring four-pixel pipelines, it implemented advanced video acceleration, motion compensation, and hardware sub-picture alpha blending. The GeForce outperformed existing products by a wide margin.
+
+Because its products were performing well, Nvidia won the contract to develop the graphics hardware for Microsoft's Xbox game console, which included a $200 million advance. However, the project took many of its best engineers away from other projects. In the short term this did not matter, and the GeForce 2 GTS shipped in the summer of 2000. In December 2000, Nvidia reached an agreement to acquire the intellectual assets of its one-time rival 3dfx, a pioneer in consumer 3D graphics technology leading the field from the mid-1990s until 2000.[43][44] The acquisition process was finalized in April 2002.[45]
+
+In 2001, Standard & Poor's selected Nvidia to replace the departing Enron in the S&P 500 stock index, meaning that index funds would need to hold Nvidia shares going forward.[46]
+
+In July 2002, Nvidia acquired Exluna for an undisclosed sum. Exluna made software-rendering tools and the personnel were merged into the Cg project.[47] In August 2003, Nvidia acquired MediaQ for approximately US$70 million.[48] It launched GoForce the following year. On April 22, 2004, Nvidia acquired iReady, also a provider of high-performance TCP offload engines and iSCSI controllers.[49] In December 2004, it was announced that Nvidia would assist Sony with the design of the graphics processor (RSX) for the PlayStation 3 game console. On December 14, 2005, Nvidia acquired ULI Electronics, which at the time supplied third-party southbridge parts for chipsets to ATI, Nvidia's competitor.[50] In March 2006, Nvidia acquired Hybrid Graphics.[51] In December 2006, Nvidia, along with its main rival in the graphics industry AMD (which had acquired ATI), received subpoenas from the United States Department of Justice regarding possible antitrust violations in the graphics card industry.[52]
+
+2007–2014
+Forbes named Nvidia its Company of the Year for 2007, citing the accomplishments it made during the said period as well as during the previous five years.[53] On January 5, 2007, Nvidia announced that it had completed the acquisition of PortalPlayer, Inc.[54] In February 2008, Nvidia acquired Ageia, developer of PhysX, a physics engine and physics processing unit. Nvidia announced that it planned to integrate the PhysX technology into its future GPU products.[55][56]
+
+In July 2008, Nvidia took a write-down of approximately $200 million on its first-quarter revenue, after reporting that certain mobile chipsets and GPUs produced by the company had "abnormal failure rates" due to manufacturing defects. Nvidia, however, did not reveal the affected products. In September 2008, Nvidia became the subject of a class action lawsuit over the defects, claiming that the faulty GPUs had been incorporated into certain laptop models manufactured by Apple Inc., Dell, and HP. In September 2010, Nvidia reached a settlement, in which it would reimburse owners of the affected laptops for repairs or, in some cases, replacement.[57][58] On January 10, 2011, Nvidia signed a six-year, $1.5 billion cross-licensing agreement with Intel, ending all litigation between the two companies.[59]
+
+In November 2011, after initially unveiling it at Mobile World Congress, Nvidia released its ARM-based system on a chip for mobile devices, Tegra 3. Nvidia claimed that the chip featured the first-ever quad-core mobile CPU.[60][61] In May 2011, it was announced that Nvidia had agreed to acquire Icera, a baseband chip making company in the UK, for $367 million.[62] In January 2013, Nvidia unveiled the Tegra 4, as well as the Nvidia Shield, an Android-based handheld game console powered by the new system on a chip.[63] On July 29, 2013, Nvidia announced that it acquired PGI from STMicroelectronics.[64]
+
+In February 2013, Nvidia announced its plans to build a new headquarters in the form of two giant triangle-shaped buildings on the other side of San Tomas Expressway (to the west of its existing headquarters complex). The company selected triangles as its design theme. As Huang explained in a blog post, the triangle is "the fundamental building block of computer graphics".[65]
+
+In 2014, Nvidia ported the Valve games Portal and Half Life 2 to its Nvidia Shield Tablet as Lightspeed Studio.[66][67] Since 2014, Nvidia has diversified its business focusing on three markets: gaming, automotive electronics, and mobile devices.[68]
+
+That same year, Nvidia also prevailed in litigation brought by the trustee of 3dfx's bankruptcy estate to challenge its 2000 acquisition of 3dfx's intellectual assets. On November 6, 2014, in an unpublished memorandum order, the United States Court of Appeals for the Ninth Circuit affirmed the "district court's judgment affirming the bankruptcy court's determination that [Nvidia] did not pay less than fair market value for assets purchased from 3dfx shortly before 3dfx filed for bankruptcy".[69]
+
+2016–2018
+On May 6, 2016, Nvidia unveiled the first GPUs of the GeForce 10 series, the GTX 1080 and 1070, based on the company's new Pascal microarchitecture. Nvidia claimed that both models outperformed its Maxwell-based Titan X model; the models incorporate GDDR5X and GDDR5 memory respectively, and use a 16 nm manufacturing process. The architecture also supports a new hardware feature known as simultaneous multi-projection (SMP), which is designed to improve the quality of multi-monitor and virtual reality (VR) rendering.[70][71][72] Laptops that include these GPUs and are sufficiently thin – as of late 2017, under 0.8 inches (20 mm) – have been designated as meeting Nvidia's "Max-Q" design standard.[73]
+
+In July 2016, Nvidia agreed to a settlement for a false advertising lawsuit regarding its GTX 970 model, as the models were unable to use all of their advertised 4 GB of VRAM due to limitations brought by the design of its hardware.[74] In May 2017, Nvidia announced a partnership with Toyota which would use Nvidia's Drive PX-series artificial intelligence platform for its autonomous vehicles.[75] In July 2017, Nvidia and Chinese search giant Baidu announced a far-reaching AI partnership that includes cloud computing, autonomous driving, consumer devices, and Baidu's open-source AI framework PaddlePaddle. Baidu unveiled that Nvidia's Drive PX 2 AI will be the foundation of its autonomous-vehicle platform.[76]
+
+Nvidia released the Titan V on December 7, 2017.[77][78]
+
+Nvidia released the Nvidia Quadro GV100 on March 27, 2018.[79] Nvidia released the RTX 2080 GPUs on September 27, 2018. In 2018, Google announced that Nvidia's Tesla P4 graphic cards would be integrated into Google Cloud service's artificial intelligence.[80]
+
+In May 2018, on the Nvidia user forum, a thread was started[81] asking the company to update users when it would release web drivers for its cards installed on legacy Mac Pro machines up to mid-2012 5,1 running the macOS Mojave operating system 10.14. Web drivers are required to enable graphics acceleration and multiple display monitor capabilities of the GPU. On its Mojave update info website, Apple stated that macOS Mojave would run on legacy machines with 'Metal compatible' graphics cards[82] and listed Metal compatible GPUs, including some manufactured by Nvidia.[83] However, this list did not include Metal compatible cards that currently work in macOS High Sierra using Nvidia-developed web drivers. In September, Nvidia responded, "Apple fully controls drivers for macOS. But if Apple allows, our engineers are ready and eager to help Apple deliver great drivers for macOS 10.14 (Mojave)."[84] In October, Nvidia followed this up with another public announcement, "Apple fully controls drivers for macOS. Unfortunately, Nvidia currently cannot release a driver unless it is approved by Apple,"[85] suggesting a possible rift between the two companies.[86] By January 2019, with still no sign of the enabling web drivers, Apple Insider weighed into the controversy with a claim that Apple management "doesn't want Nvidia support in macOS".[87] The following month, Apple Insider followed this up with another claim that Nvidia support was abandoned because of "relational issues in the past",[88] and that Apple was developing its own GPU technology.[89] Without Apple-approved Nvidia web drivers, Apple users are faced with replacing their Nvidia cards with a competing supported brand, such as AMD Radeon from the list recommended by Apple.[90]
+
+2019 acquisition of Mellanox Technologies
+
+Nvidia Yokneam office (former Mellanox Technologies) in Yokneam Illit, Israel, in March 2023
+On March 11, 2019, Nvidia announced a deal to buy Mellanox Technologies for $6.9 billion[91] to substantially expand its footprint in the high-performance computing market. The acquisition of the Israeli firm, a longtime supplier to the Israeli military, led to the 2023 launch of "Israel-1," described as the country's most powerful AI supercomputer.[92] In May 2019, Nvidia announced new RTX Studio laptops. The creators said that the new laptop was going to be seven times faster than a top-end MacBook Pro with a Core i9 and AMD's Radeon Pro Vega 20 graphics in apps like Maya and RedCine-X Pro.[93] In August 2019, Nvidia announced Minecraft RTX, an official Nvidia-developed patch for the game Minecraft adding real-time DXR ray tracing exclusively to the Windows 10 version of the game. The whole game was, in Nvidia's words, "refit" with path tracing, which dramatically affects the way light, reflections, and shadows work inside the engine.[94]
+
+2020–2023
+In May 2020, Nvidia announced it was acquiring Cumulus Networks.[95] Post acquisition the company was absorbed into Nvidia's networking business unit, along with Mellanox.
+
+In May 2020, Nvidia developed an open-source ventilator to address the shortage resulting from the global coronavirus pandemic.[96] On May 14, 2020, Nvidia officially announced its Ampere GPU microarchitecture and the Nvidia A100 GPU accelerator.[97][98] In July 2020, it was reported that Nvidia was in talks with SoftBank to buy Arm, a UK-based chip designer, for $32 billion.[99]
+
+On September 1, 2020, Nvidia officially announced the GeForce 30 series based on the company's new Ampere microarchitecture.[100][101]
+
+On September 13, 2020, Nvidia announced that it would buy Arm from SoftBank Group for $40 billion, subject to the usual scrutiny, with the latter retaining a 10% share of Nvidia.[102][103][104][105]
+
+
+Nvidia GeForce RTX 2080 Ti, part of the RTX 20 series, which is the first generation of Nvidia RTX
+In October 2020, Nvidia announced its plan to build the most powerful computer in Cambridge, England. The computer, called Cambridge-1, launched in July 2021 with a $100 million investment and will employ AI to support healthcare research.[106][107] According to Jensen Huang, "The Cambridge-1 supercomputer will serve as a hub of innovation for the UK, and further the groundbreaking work being done by the nation's researchers in critical healthcare and drug discovery."[108]
+
+Also in October 2020, along with the release of the Nvidia RTX A6000, Nvidia announced it was retiring its workstation GPU brand Quadro, shifting its product name to Nvidia RTX for future products and the manufacturing to be Ampere architecture-based.[109]
+
+In August 2021, the proposed takeover of Arm was stalled after the UK's Competition and Markets Authority raised "significant competition concerns".[110] In October 2021, the European Commission opened a competition investigation into the takeover. The Commission stated that Nvidia's acquisition could restrict competitors' access to Arm's products and provide Nvidia with too much internal information on its competitors due to their deals with Arm. SoftBank (the parent company of Arm) and Nvidia announced in early February 2022 that they "had agreed not to move forward with the transaction 'because of significant regulatory challenges'".[111] The investigation was set to end on March 15, 2022.[112][113] That same month, Nvidia was reportedly compromised by a cyberattack.[114] This would have been the largest semiconductor acquisition in history.[17][18]
+
+In March 2022, Nvidia's CEO Jensen Huang mentioned that they were open to having Intel manufacture their chips in the future.[115] This was the first time the company mentioned that it would work together with Intel's upcoming foundry services.
+
+In April 2022, it was reported that Nvidia planned to open a new research center in Yerevan, Armenia.[116]
+
+In May 2022, Nvidia opened Voyager, the second of the two giant buildings at its new headquarters complex to the west of the old one. Unlike its smaller and older sibling Endeavor, the triangle theming is used more "sparingly" in Voyager.[117][118]
+
+In September 2022, Nvidia announced its next-generation automotive-grade chip, Drive Thor.[119][120]
+
+In September 2022, Nvidia announced a collaboration with the Broad Institute of MIT and Harvard related to the entire suite of Nvidia's AI-powered healthcare software suite called Clara, that includes Parabricks and MONAI.[121]
+
+Following United States Department of Commerce regulations which placed an embargo on exports to China of advanced microchips, which went into effect in October 2022, Nvidia saw its data center chip added to the export control list. The next month, the company unveiled a new advanced chip in China, called the A800 GPU, that met the export control rules.[122]
+
+In September 2023, Getty Images announced that it was partnering with Nvidia to launch Generative AI by Getty Images, a new tool that let people create images using Getty's library of licensed photos. Getty said they would use Nvidia's Edify model, which was available on Nvidia's generative AI model library Picasso.[123]
+
+On September 26, 2023, Denny's CEO Kelli Valade joined Huang in East San Jose to celebrate the founding of Nvidia at Denny's on Berryessa Road, where a plaque was installed to mark the relevant corner booth as the birthplace of a $1 trillion company.[27][124] By then, Nvidia's H100 GPUs were in such demand that even other tech giants were beholden to how Nvidia allocated supply. Larry Ellison of Oracle Corporation said that month that during a dinner with Huang at Nobu in Palo Alto, he and Elon Musk of Tesla, Inc. and xAI "were begging" for H100s, "I guess is the best way to describe it. An hour of sushi and begging".[125]
+
+In October 2023, it was reported that Nvidia had quietly begun designing ARM-based central processing units (CPUs) for Microsoft's Windows operating system with a target to start selling them in 2025.[126]
+
+2024–2026
+In January 2024, Forbes reported that Nvidia has increased its lobbying presence in Washington, D.C. as American lawmakers consider proposals to regulate artificial intelligence. From 2023 to 2024, the company reportedly hired at least four government affairs with professional backgrounds at agencies including the United States Department of State and the Department of the Treasury. It was noted that the $350,000 spent by the company on lobbying in 2023 was small compared to a number of major tech companies in the artificial intelligence space.[127]
+
+In January 2024, Raymond James Financial analysts estimated that Nvidia was selling the H100 GPU in the price range of $25,000 to $30,000 each, while on eBay, individual H100s cost over $40,000.[128] Several major technology companies were purchasing tens or hundreds of thousands of GPUs for their data centers to run generative artificial intelligence projects; simple arithmetic implied that they were committing to billions of dollars in capital expenditures.[128]
+
+In February 2024, it was reported that Nvidia was the "hot employer" in Silicon Valley because it was offering interesting work and good pay at a time when other tech employers were downsizing. Half of Nvidia employees earned over $228,000 in 2023.[129] By then, Nvidia GPUs had become so valuable that they needed special security while in transit to data centers. Cisco chief information officer Fletcher Previn explained at a CIO summit: "Those GPUs arrive by armored car".[130]
+
+On March 1, 2024, Nvidia became the third company in the history of the United States to close with a market capitalization in excess of $2 trillion.[46] Nvidia needed only 180 days to get to $2 trillion from $1 trillion, while the first two companies, Apple and Microsoft, each took over 500 days.[46] On March 18, Nvidia announced its new AI chip and microarchitecture Blackwell, named after mathematician David Blackwell.[131]
+
+In April 2024, Reuters reported that China had allegedly acquired banned Nvidia chips and servers from Supermicro and Dell via tenders.[132]
+
+In June 2024, the Federal Trade Commission (FTC) and the Justice Department (DOJ) began antitrust investigations into Nvidia, Microsoft and OpenAI, focusing on their influence in the AI industry. The FTC led the investigations into Microsoft and OpenAI, while the DOJ handled Nvidia. The probes centered on the companies' conduct rather than mergers. This development followed an open letter from OpenAI employees expressing concerns about the rapid AI advancements and lack of oversight.[133]
+
+The company became the world's most valuable, surpassing Microsoft and Apple, on June 18, 2024, after its market capitalization exceeded $3.3 trillion.[134][135]
+
+In June 2024, Trend Micro announced a partnership with Nvidia to develop AI-driven security tools, notably to protect the data centers where AI workloads are processed.[136] This collaboration integrates Nvidia NIM and Nvidia Morpheus with Trend Vision One and its Sovereign and Private Cloud solutions to improve data privacy, real-time analysis, and rapid threat mitigation.[137]
+
+In October 2024, Nvidia introduced a family of open-source multimodal large language models called NVLM 1.0, which features a flagship version with 72 billion parameters, designed to improve text-only performance after multimodal training.[138][139]
+
+In October 2024, Nvidia reported that it had been collaborating with Raytheon (a RTX Corporation business) to “explore network pipelines that accelerate workloads on GPUs and use GPU acceleration software libraries”.[140]
+
+In November 2024, the company was added to the Dow Jones Industrial Average.[141][142]
+
+In November 2024, Morgan Stanley reported that "the entire 2025 production" of all of Nvidia's Blackwell chips was "already sold out".[143]
+
+Also in November 2024, the company bought 1.2 million shares of Nebius Group.[144]
+
+Nvidia was ranked #3 on Forbes' "Best Places to Work" list in 2024.[145]
+
+As of January 7, 2025, Nvidia's $3.66 trillion market cap was worth more than double of the combined value of AMD, ARM, Broadcom, and Intel.[146]
+
+In January 2025, Nvidia saw the largest one-day loss in market capitalization for a U.S. company in history at $600 billion. This was due to DeepSeek, a Chinese AI startup that developed an advanced AI model at a lower cost and computing power.[147] DeepSeek's AI assistant, using the V3 model, surpassed ChatGPT as the highest-rated free app in the U.S. on Apple's App Store.[148][149]
+
+On April 7, 2025, Nvidia released the Llama-3.1-Nemotron-Ultra-253B-v1 reasoning large language model, under the Nvidia Open Model License. It comes in three sizes: Nano, Super and Ultra.[150]
+
+On May 28, 2025, Nvidia's second-quarter revenue forecast fell short of market estimates due to U.S. export restrictions impacting AI chip sales to China, yet the company's stock rose 5% as investors remained optimistic about long-term AI demand.[151]
+
+In July 2025, it was announced that Nvidia had acquired CentML, a Canadian-based AI firm.[152]
+
+On July 10, 2025, Nvidia closed for the first time with a market cap above $4 trillion, after its market cap briefly touched and then retreated from that number during the previous day.[153] Nvidia became the first company to reach a market cap of $4 trillion.[9] At that point, Nvidia was worth more than the combined value of all publicly traded companies in the United Kingdom.[153]
+
+On July 29, 2025, Nvidia ordered 300,000 H20 AI chips from Taiwan Semiconductor Manufacturing Company (TSMC) due to strong demand from Chinese tech firms like Tencent and Alibaba.[154]
+
+In August 2025, Nvidia and competitor Advanced Micro Devices agreed to pay 15% of the revenues from certain chip sales in China as part of an arrangement to obtain export licenses.[155] Nvidia will pay only for sales of the H20 chips.[156]
+
+On September 17, 2025, Nvidia chief executive Jensen Huang said he was “disappointed” after the Cyberspace Administration of China (CAC) ordered companies including TikTok parent company ByteDance and Alibaba not to purchase the RTX Pro 6000D, a graphics chip made specifically for the Chinese market. China's internet regulator banned the country's largest technology companies from buying Nvidia's artificial intelligence chips as part of efforts to strengthen the domestic industry and compete with the United States. The CAC instructed companies this week to end both testing and orders of the RTX Pro 6000D, which Nvidia had designed as a tailor-made product for China, according to three people with knowledge of the matter.[157][158]
+
+On September 18, 2025, Nvidia announced it would invest $5 billion in Intel, backing the struggling U.S. chipmaker just weeks after the White House arranged a deal for the federal government to take a major stake in the company. The investment will give Nvidia an immediate holding of about 4% in Intel once new shares are issued to finalize the agreement. Nvidia's move provides Intel with fresh support following years of unsuccessful turnaround efforts and will allow Nvidia to offer its powerful GB300 data center servers based on Blackwell GPUs on Intel's X86 architecture.[159]
+
+On September 22, 2025, Nvidia and OpenAI announced a memorandum of understanding for a partnership wherein Nvidia would invest $100 billion into OpenAI, and OpenAI would use Nvidia chips and systems in new data centers. OpenAI will build new AI data centers using Nvidia systems, amounting to at least 10 gigawatts system power, which is the equivalent of energy produced by more than four Hoover Dams. The deal was meant to be a circular arrangement where OpenAI will pay back Nvidia's investment through the purchase of Nvidia's chips, which is a model common in AI partnerships.[160] This "circularity" is estimated at $35 billion in new Nvidia chips bought by OpenAI, for every $10 billion Nvidia invests in OpenAI.[161] As of January 2026, negotiations had not progressed beyond early stages, and the two companies were rethinking the partnership's structure. In the months leading up to this, chief executive Jensen Huang privately emphasized to industry associates that the original deal was non-binding and not finalized when announced.[162]
+
+In October 2025, a coalition of Nvidia, nonprofit Electric Power Research Institute and PJM Interconnection announced that the first commercial application of software-developed by startup Emerald AI (in which Nvidia invests), that adjusts the energy draw on a power grid in real time was to be deployed at a new data center under construction in Virginia. Dubbed "Aurora", the facility is expected to set a new flexible power standard.[163]
+
+A server farm dedicated to autonomous AI was also announced in October 2025, as a collaboration between SDS Schönfeld, a data services firm owned by UC Schönfeld, and VAST Data, an Israeli company specializing in AI storage management that collaborates closely with Nvidia. Reports indicate that approximately $30 billion has been secured for the Bet Yehoshua server farm. It is expected to feature "tens of petabytes of data infrastructure powered by VAST, along with thousands of Nvidia Blackwell GPUs and Nvidia network processors."[164]
+
+On October 29, 2025, Nvidia became the first company to reach a market capitalization of $5 trillion.[165]
+
+Nvidia's stock prices fell by 2% on November 11, 2025, as the SoftBank Group dumped its entire Nvidia portfolio worth $5.8 billion, redirecting the capital towards OpenAI instead.[166]
+
+On December 1, 2025, Nvidia released Alpamayo-R1, an open source, vision-language-action AI model for self-driving vehicles. This was done so that developers and researchers can understand how these models work and come up with standard ways on how the industry can evaluate how they work.[167]
+
+On December 15, 2025, Nvidia announced the Nemotron 3 family of models consisting of Nano, Super and Ultra models, built on a hybrid mixture-of-experts (MoE) architecture. Nvidia said Nano has around 30 billion parameters, Super 100 billion, and Ultra 500 billion.[168]
+
+On December 18, 2025, Nvidia announced plans to build a major new research and development campus in Kiryat Tivon, Israel, projected to employ more than 10,000 people and become one of the company's largest sites outside the United States. The 22-acre complex is scheduled to begin construction in 2027, with initial operations expected in 2031, and will include laboratories, green areas, and public facilities. The project reinforces Israel's role as Nvidia's principal international development hub in advanced AI and computing technologies.[169]
+
+In December 2025, it was announced that Nvidia had acquired SchedMD, the company behind the open-source workload manager Slurm, as part of an effort to expand its AI and high-performance computing software capabilities. Nvidia stated that Slurm would remain open-source and vendor-neutral after the acquisition, with no financial terms disclosed.[170]
+
+In December 2025, CNBC reported Nvidia had agreed to buy assets from Groq for $20 billion in cash. The deal included a non-exclusive licensing agreement with Nvidia for Groq's inference technology. Several of Groq's senior leaders, including its CEO, also agreed to join Nvidia as part of the deal. While both companies said Groq would continue to operate as an individual company, the transaction drew criticism from several industry analysts as a tactic to avoid regulatory scrutiny.[171][172]
+
+In late 2025, Nvidia entered advanced negotiations to acquire AI21 Labs, an Israeli developer of large language models,[173] in a deal valued at as much as $2 billion to $3 billion.[174][175] The proposed transaction is widely described as a talent-focused "acquihire" aimed at integrating AI21's workforce of approximately 200 specialists into Nvidia's global artificial intelligence operations.[176] If completed, the transaction would be Nvidia's second-largest Israeli acquisition after its $7 billion purchase of Mellanox in 2020.[177]
+
+At CES 2026, CEO Jensen Huang unveiled Nvidia's Vera Rubin AI platform and the Alpamayo open-source model.[178] Hesai was also picked as Nvidia's laser technology partner, supplying Lidar sensors to the company, streamlining software, hardware, and data in its autonomous driving products.[179]
+
+In January 2026, Nvidia launched a new weather forecasting service called Earth-2. It is an open-sourced platform that can be incorporated to improve the AI function across models used by scientists, businesses and local governments.[180]
+
+On February 24, 2026, Nvidia announced its acquisition of Israeli startup Illumex, a developer of generative semantic data infrastructure, in a deal reportedly valued at around $60 million.[181]
+
+On 11 March 2026, Nvidia announced that it will invest $2 billion in artificial intelligence cloud company Nebius.[182]
+
+In April 2026, Nvidia announced the release of a new group of open-source artificial intelligence models designed specifically for quantum computing. The development caused a noticeable market surge for allied quantum computing companies.[183] During the same month, Nvidia's market momentum was further bolstered by its primary manufacturing partner, TSMC, which reported a 35.1% year-on-year revenue increase for the first quarter of 2026, largely driven by robust global demand for AI accelerators.[184]
+
+At the GTC conference in March 2026, Nvidia announced the "Vera Rubin" platform, the successor to its Blackwell architecture. The platform includes the Rubin GPU and Vera CPU, designed to scale "agentic AI" and offering significant performance improvements in large-scale AI factories.[185]
+
+In May 2026, Nvidia announced that it would be partnering with Corning and investing up to 3.2 billion to build 3 new advanced manufacturing facilities in North Carolina and Texas as part of a optical fiber deal.[186]
+
+On 1 June 2026, Nvidia released the RTX Spark chip intended for laptops[187].
+
+Corporate affairs
+Sales by business unit (2025)[188]
+Business unit	Sales (billion $)	Share
+Compute & networking	116.2	89.0%
+Graphics	14.3	11.0%
+Sales by region (2025)[188]
+Region	Sales (billion $)	Share
+United States	61.3	46.9%
+Singapore	23.7	18.2%
+Taiwan	20.6	15.8%
+China	17.1	13.1%
+Other countries	7.9	6.0%
+Leadership
+Nvidia's key management as of March 2024 consists of:[189]
+
+Jensen Huang, founder, president and chief executive officer
+Chris Malachowsky, founder and Nvidia fellow
+Colette Kress, executive vice president and chief financial officer
+Jay Puri, executive vice president of worldwide field operations
+Debora Shoquist, executive vice president of operations
+Tim Teter, executive vice president, general counsel and secretary
+Board of directors
+As of January 2026, the company's board consisted of the following directors:[190]
+
+Tench Coxe (former managing director of Sutter Hill Ventures)
+John Dabiri (engineer and professor at the California Institute of Technology)
+Jensen Huang (co-founder, CEO and president of Nvidia)
+Dawn Hudson (former chief marketing officer of the National Football League)
+Harvey C. Jones (managing partner of Square Wave Ventures)
+Melissa B. Lora (former president of Taco Bell International)
+Stephen Neal (lead independent director of Nvidia, former CEO and chairman emeritus and senior counsel of Cooley LLP)
+Brooke Seawell (venture partner at New Enterprise Associates)
+Aarti Shah (former senior vice president & chief information and digital officer at Eli Lilly and Company)
+Mark Stevens (managing partner at S-Cubed Capital)
+Finances
+
+Nvidia stock price (1999–2026)
+10-year financials (2016–2026)[191][192]
+Year	Revenue
+(bn. US$)	Net income
+(bn. US$)	Employees
+2016	5.0	0.61	9,227
+2017	6.9	1.6	10,299
+2018	9.7	3.0	11,528
+2019	11.7	4.1	13,277
+2020	10.9	2.7	13,775
+2021	16.6	4.3	18,975
+2022	26.9	9.7	22,473
+2023	26.9	4.3	26,000
+2024	60.9	29.7	29,600
+2025	130	72.8	36,000
+2026	215	120	42,000
+For the fiscal year 2020, Nvidia reported earnings of US$2.796 billion, with an annual revenue of US$10.918 billion, a decline of 6.8% over the previous fiscal cycle. Nvidia's shares traded at over $531 per share, and its market capitalization was valued at over US$328.7 billion in January 2021.[193][194]
+
+For the Q2 of 2020, Nvidia reported sales of $3.87 billion, which was a 50% rise from the same period in 2019. The surge in sales was driven by people's higher demand for computer technology. According to the financial chief of the company, Colette Kress, the effects of the pandemic will "likely reflect this evolution in enterprise workforce trends with a greater focus on technologies, such as Nvidia laptops and virtual workstations, that enable remote work and virtual collaboration."[195] In May 2023, Nvidia crossed $1 trillion in market valuation during trading hours,[196] and grew to $1.2 trillion by the following November.[197]
+
+Ownership
+The 10 largest shareholders of Nvidia in early 2026 were:[198]
+
+The Vanguard Group (9.33%)
+BlackRock (7.92%)
+State Street Global Advisors (4.03%)
+FMR LLC (3.71%)
+Jen-Hsun Huang (3.50%)
+Geode Capital Management (2.41%)
+T. Rowe Price (1.75%)
+Capital Research and Management Company (1.67%)
+JPMorgan Asset Management (1.39%)
+Norges Bank Investment Management (1.34%)
+Fabrication
+Nvidia uses external suppliers for all phases of manufacturing, including wafer fabrication, assembly, testing, and packaging. Nvidia thus avoids most of the investment and production costs and risks associated with chip manufacturing, although it does sometimes directly procure some components and materials used in the production of its products (e.g., memory and substrates). Nvidia focuses its own resources on product design, quality assurance, marketing, and customer support.[199][200]
+
+GPU Technology Conference
+Main article: Nvidia GTC
+Nvidia's GPU Technology Conference (GTC) is a series of technical conferences held around the world.[201] It originated in 2009 in San Jose, California, with an initial focus on the potential for solving computing challenges through GPUs.[24] In recent years,[when?] the conference's focus has shifted to various applications of artificial intelligence and deep learning; including self-driving cars, healthcare, high-performance computing, and Nvidia Deep Learning Institute (DLI) training.[202] GTC 2018 attracted over 8400 attendees.[201] GTC 2020 was converted to a digital event and drew roughly 59,000 registrants.[203] After several years of remote-only events, GTC in March 2024 returned to an in-person format in San Jose, California.[204]
+
+At GTC 2025, Nvidia unveiled its next-generation AI hardware, the Blackwell Ultra and Vera Rubin chips, signalling a leap toward agentic AI and reasoning-capable computing. Huang projected that AI-driven infrastructure would drive Nvidia's data center revenue to $1 trillion by 2028. The announcement also introduced Isaac GR00T N1 (humanoid robotics model), Cosmos (synthetic training data AI), and the Newton physics engine, developed in collaboration with DeepMind and Disney Research.[205]
+
+Product families
+
+A Shield Tablet with its accompanying input pen (left) and gamepad
+Nvidia's product families include graphics processing units, wireless communication devices, and automotive hardware and software, such as:
+
+GeForce, consumer-oriented graphics processing products
+RTX, professional visual computing graphics processing products (replacing GTX and Quadro)
+NVS, a multi-display business graphics processor
+Tegra, a system on a chip series for mobile devices
+Tesla, line of dedicated general-purpose GPUs for high-end image generation applications in professional and scientific fields
+nForce, a motherboard chipset created by Nvidia for Intel (Celeron, Pentium and Core 2) and AMD (Athlon and Duron) microprocessors
+GRID, a set of hardware and services by Nvidia for graphics virtualization
+Shield, a range of gaming hardware including the Shield Portable, Shield Tablet and Shield TV
+Drive, a range of hardware and software products for designers and manufacturers of autonomous vehicles. The Drive PX-series is a high-performance computer platform aimed at autonomous driving through deep learning,[206] while Driveworks is an operating system for driverless cars.[207]
+BlueField, a range of data processing units, initially inherited from its acquisition of Mellanox Technologies[208][209]
+Datacenter/server class CPU, codenamed Grace, released in 2023[210][211]
+DGX, an enterprise platform designed for deep learning applications
+Maxine, a platform providing developers a suite of AI-based conferencing software[212]
+Omniverse, a platform for creating and operating metaverse applications[213]
+Open-source software support
+See also: Free and open-source graphics device driver, Mesa 3D, and OpenPOWER Foundation
+Until September 23, 2013, Nvidia had not published any documentation for its advanced hardware,[214] meaning that programmers could not write free and open-source device drivers for its products without resorting to reverse engineering. Additionally, features like its compute platform CUDA and the DLSS technology suite are proprietary and only available on its hardware. As such, Nvidia has been notable for proprietization and vendor-locking practices.
+
+Nvidia has released Linux <open-source GPU kernel modules> under dual GPL/MIT licensing, allowing developers to inspect the driver module code and contribute improvements in collaboration with the community.[1] The Nvidia open-gpu-kernel-modules repository on GitHub provides the publicly accessible source code for these modules, supporting modern GPU architectures in Linux environments.[215] Furthermore, Nvidia's acquisition of SchedMD and the release of new open-source AI models highlight its broader commitment to open-source software and the AI ecosystem.[2]
+
+Instead, Nvidia provides its own binary GeForce graphics drivers for X.Org and an open-source library that interfaces with the Linux, FreeBSD or Solaris kernels and the proprietary graphics software. Nvidia also provided but stopped supporting an obfuscated open-source driver that only supports two-dimensional hardware acceleration and ships with the X.Org distribution.[216]
+
+The proprietary nature of Nvidia's drivers has generated dissatisfaction within free-software communities. In a 2012 talk, Linus Torvalds gave a middle-finger gesture and criticized Nvidia's stance toward Linux.[217][218] Some Linux and BSD users insist on using only open-source drivers and regard Nvidia's insistence on providing nothing more than a binary-only driver as inadequate, given that competing manufacturers such as Intel offer support and documentation for open-source developers, and others like AMD release partial documentation and provide some active development.[219][220]
+
+Nvidia only provides x86/x64 and ARMv7-A versions of its proprietary driver; as a result, features like CUDA are unavailable on other platforms.[221] Some users claim that Nvidia's Linux drivers impose artificial restrictions, like limiting the number of monitors that can be used at the same time, but the company has not commented on these accusations.[222]
+
+In 2014, with its Maxwell GPUs, Nvidia started to require firmware by it to unlock all features of its graphics cards.[223][224][225]
+
+On May 12, 2022, Nvidia announced that it is opensourcing its GPU kernel modules.[226][227][215] Support for Nvidia's firmware was implemented in nouveau in 2023, which allows proper power management and GPU reclocking for Turing and newer graphics card generations.[228][229]
+
+On July 21, 2025, Nvidia announced to extend CUDA support to RISC-V.[230][231][232]
+
+As of 2026, NVIDIA has over a 100 different open-source projects available on GitHub in different areas such as computer vision, networking, cybersecurity, AR/VR, Robotics, Generative AI etc[233].
+

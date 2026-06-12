@@ -1,0 +1,28 @@
+# Secrets — never commit
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local vector store / generated data
+db/
+dbv2/
+chunks_export.json
+rag_results.json
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Claude Code local config
+.claude/settings.local.json
