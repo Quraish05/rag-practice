@@ -23,6 +23,7 @@ A sequential walk from first principles to a full multimodal pipeline. Each chap
 | 2 | [The RAG Pipeline](handbook/02-rag-pipeline.md) | Embeddings, vector store, retrieval, and RAG generation | [ingestion_pipeline.py](ingestion_pipeline.py), [retrieval_pipeline.py](retrieval_pipeline.py) |
 | 3 | [Conversational RAG](handbook/03-conversational-rag.md) | History-aware retrieval with query rewriting | [history_aware_generation.py](history_aware_generation.py) |
 | 4 | [Multimodal RAG over PDFs](handbook/04-multimodal-rag.md) | Partitioning, vision summaries, multimodal answers (with screenshots) | [multi_modal_rag.ipynb](multi_modal_rag.ipynb) |
+| 5 | [Advanced Retrieval](handbook/05-advanced-retrieval.md) | Score threshold, MMR, multi-query, and reciprocal rank fusion (with screenshots) | [retrieval_methods.py](retrieval_methods.py), [multi_query_retrieval.py](multi_query_retrieval.py), [reciprocal_rank_fusion.py](reciprocal_rank_fusion.py) |
 | — | [Glossary](handbook/glossary.md) | Plain-English definitions of every term used | — |
 
 **Suggested path:** read the chapters in order. To run the code, build the vector store with `ingestion_pipeline.py` first, then query it with `retrieval_pipeline.py` and `history_aware_generation.py`. The chunking scripts are standalone. The notebook is self-contained end-to-end.
@@ -37,10 +38,14 @@ A sequential walk from first principles to a full multimodal pipeline. Each chap
 | [retrieval_pipeline.py](retrieval_pipeline.py) | Similarity search + RAG answer generation |
 | [history_aware_generation.py](history_aware_generation.py) | Conversational RAG with query rewriting |
 | [multi_modal_rag.ipynb](multi_modal_rag.ipynb) | Multimodal RAG over a PDF (text + tables + images) with Claude Opus vision |
+| [retrieval_methods.py](retrieval_methods.py) | Similarity, score-threshold, and MMR retrieval side by side |
+| [multi_query_retrieval.py](multi_query_retrieval.py) | Multi-query generation + reciprocal rank fusion (compact) |
+| [reciprocal_rank_fusion.py](reciprocal_rank_fusion.py) | Verbose RRF walkthrough with per-position scores |
+| [ingest_tesla.py](ingest_tesla.py) | One-off: add `docs/tesla.txt` to the existing Chroma store |
 | `semantic_chunking.py`, `answer_generation.py` | Placeholder / scratch files (currently empty) |
-| `docs/` | Source documents (`google.txt`, `nvidia.txt`) used for ingestion |
+| `docs/` | Source documents (`google.txt`, `nvidia.txt`, `tesla.txt`) used for ingestion |
 | [attention-is-all-you-need.pdf](attention-is-all-you-need.pdf) | Source PDF ingested by the multimodal notebook |
-| `outputs/` | Screenshots of the notebook's cell outputs (used in Chapter 4) |
+| `outputs/` | Screenshots of cell/script outputs (used in Chapters 4 and 5) |
 | `handbook/` | The chapter-by-chapter guide |
 | `db/chroma_db/`, `dbv2/chroma_db/` | Persisted Chroma vector stores (created by ingestion; gitignored) |
 

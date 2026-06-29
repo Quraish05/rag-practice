@@ -1,0 +1,724 @@
+"Tesla Motors" redirects here. For electric motors invented by Nikola Tesla, see Induction motor and AC motor.
+"Tesla (company)" redirects here. For the electrotechnical company, see Tesla a.s. For other uses, see Tesla (disambiguation).
+Tesla, Inc.
+
+
+Gigafactory Texas, Tesla's headquarters, just outside of Austin, Texas
+Formerly	Tesla Motors, Inc. (2003–2017)
+Company type	Public
+Traded as	
+Nasdaq: TSLA
+Nasdaq-100 component
+S&P 100 component
+S&P 500 component
+ISIN	US88160R1014
+Industry	
+Automotive
+Renewable energy
+Founded	July 1, 2003; 22 years ago in San Carlos, California, US
+Founders	
+Martin Eberhard
+Marc Tarpenning
+(See § Founding)
+Headquarters	Gigafactory Texas, Austin, Texas, United States
+Number of locations	
+Increase 1,359 sales, service, and delivery centers
+Increase 7,791 Supercharger stations[1]
+Area served	
+East AsiaEuropeMiddle EastNorth AmericaOceaniaSoutheast AsiaIndian Subcontinent
+Key people	
+Elon Musk (CEO)
+Robyn Denholm (chair)
+Products	
+CybertruckMegapackModel 3Model YPowerwallSemiSolar PanelsSolar Roof
+Production output	
+Decrease 1.66 million vehicles (2025)
+Increase 46.7 GWh battery energy storage systems (2025)
+Services	
+Charginginsurancemaintenance
+Revenue	Decrease US$94.83 billion (2025)
+Operating income	Decrease US$4.36 billion (2025)
+Net income	Decrease US$3.79 billion (2025)
+Total assets	Increase US$137.8 billion (2025)
+Total equity	Increase US$82.14 billion (2025)
+Owner	Elon Musk (13%)[2]
+Number of employees	Increase 134,785 (2025)
+Subsidiaries	
+Tesla Automation
+Tesla Energy
+ASN	
+394161
+Website	tesla.com
+Footnotes / references
+Financials as of December 31, 2025.
+References:[3]
+	
+This article is part of
+a series about
+Elon Musk
+Personal
+Companies
+Politics
+In the arts and media
+vte
+Tesla, Inc. (/ˈtɛzlə/ TEZ-lə or /ˈtɛslə/ ⓘ TESS-lə[a]) is an American multinational automotive and clean energy company. Headquartered in Austin, Texas, it designs, manufactures, and sells battery electric vehicles (BEVs), stationary battery energy storage devices from home to grid-scale, solar panels and solar shingles, and related products and services.
+
+The company was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning as Tesla Motors. Its name is a tribute to the inventor and electrical engineer Nikola Tesla. In February 2004, Elon Musk led Tesla's first funding round and became the company's chairman, subsequently claiming to be a co-founder; in 2008, he was named chief executive officer. The company began production of its first car model, the Roadster sports car, in 2008; the Model S sedan in 2012; the Model X SUV in 2015; the Model 3 sedan in 2017; the Model Y crossover in 2020; the Tesla Semi truck in 2022; and the Cybertruck pickup truck in 2023.
+
+Tesla is one of the world's most valuable companies in terms of market capitalization. Starting in July 2020, it has been the world's most valuable automaker. From October 2021 to March 2022, Tesla was a US$1 trillion company, the sixth US company to reach that valuation. In 2023, the company was ranked 69th in the Forbes Global 2000.[5] In 2024, the company led the battery electric vehicle market, with 17.6% share.
+
+Tesla exceeded $1 trillion in market capitalization again between November 2024[6] and February 2025,[7] and since May 2025.[8] In November 2025, Tesla approved a pay package worth $1 trillion for Musk, which he is to receive over 10 years if he meets specific goals.[9] By the end of 2025, the company lost its status as world's leading manufacturer of electric vehicles.[10]
+
+Tesla has been the subject of lawsuits, boycotts, government scrutiny, and journalistic criticism, stemming from allegations of multiple cases of whistleblower retaliation, worker rights violations such as sexual harassment and anti-union activities, safety defects leading to dozens of recalls, the lack of a public relations department, and controversial statements from Musk, including overpromising on the company's driving assist technology and product release timelines.
+
+History
+Main article: History of Tesla, Inc.
+Founding (2003–2004)
+The company was incorporated as Tesla Motors, Inc., on July 1, 2003, by Martin Eberhard and Marc Tarpenning.[11][12] They served as chief executive officer and chief financial officer, respectively.[13] Eberhard said that he wanted to build "a car manufacturer that is also a technology company", with its core technologies as "the battery, the computer software, and the proprietary motor".[14]
+
+Ian Wright joined Eberhard and Tarpenning a few months later.[11] In February 2004, the company raised US$7.5 million (equivalent to $12.8 million in 2025) in series A funding, including $6.5 million (equivalent to $11.1 million in 2025) from Elon Musk, who had received $176 million from the sale of his interest in PayPal two years earlier.[15] Musk became the chairman of the board of directors and the largest shareholder of Tesla.[16][17][13] J. B. Straubel joined Tesla in May 2004 as chief technical officer.[18]
+
+A lawsuit settlement agreed to by Eberhard and Tesla in September 2009 allows all five – Eberhard, Tarpenning, Wright, Musk, and Straubel – to call themselves co-founders.[19]
+
+Roadster (2005–2009)
+Main article: Tesla Roadster (first generation)
+Elon Musk took an active role within the company, but was not deeply involved in day-to-day business operations.[20] The company's strategy was to start with a premium sports car aimed at early adopters and then move into more mainstream vehicles, including sedans and affordable compacts.[21]
+
+In February 2005, Musk led Tesla's Series B venture capital funding round of $13 million, which added Valor Equity Partners to the funding team.[22][17] Musk co-led the third, $40 million round in May 2006 which saw investment from prominent entrepreneurs including Google co-founders Sergey Brin and Larry Page, and former eBay president Jeff Skoll.[23] A fourth round worth $45 million in May 2007 brought the total private financing investment to over $105 million.[23]
+
+In August 2007, Eberhard was asked by the board, led by Musk, to step down as CEO.[24] Eberhard then took the title of "President of Technology" before ultimately leaving the company in January 2008. Co-founder Marc Tarpenning, who served as the Vice President of Electrical Engineering of the company, also left the company in January 2008.[25] In August 2007, Michael Marks was brought in as interim CEO, and in December 2007, Ze'ev Drori became CEO and president.[26] Musk succeeded Drori as CEO in October 2008.[26] In June 2009, Eberhard filed a lawsuit against Musk for allegedly forcing him out.[27] The case was dismissed in August 2009.[28]
+
+Tesla began production of the Roadster in 2008 inside the service bays of a former Chevrolet dealership in Menlo Park.[29][30] By January 2009, Tesla had raised $187 million and delivered 147 cars. Musk had contributed $70 million of his money to the company.[31]
+
+
+First deliveries of Model S at the Tesla Fremont Factory in California, in June 2012
+USDOE loan, IPO, Model S, Autopilot, and Model X (2010-2015)
+In January 2010, Tesla received a $465 million government loan from the Department of Energy's Loan Program Office (LPO), for U.S.-made advanced clean energy technology commercialization and manufacturing.[32][33] This strategic funding was critical to the creation of the model S, and was repaid in full.[34][35]
+
+In May 2010, Tesla purchased the NUMMI plant in Fremont, California, from Toyota for $42 million.[36] On June 29, 2010, the company went public via an initial public offering (IPO), the first American car company to do so since Ford Motor Company in 1956.[37] The company issued 13.3 million shares of common stock at a price of $17 per share at its opening on the NASDAQ, raising $226 million.[38]
+
+In October 2010, Tesla opened the Tesla Factory.[39] In January 2012, Tesla ceased production of the Roadster, and in June 2012, the company began producing its second car, the Model S luxury sedan.[40] The Model S won several automotive awards during 2012 and 2013, including the 2013 Motor Trend Car of the Year,[41] and became the first electric car to top the monthly sales ranking of a country, when it topped the Norwegian new car sales list in September 2013.[42] The Model S was also the best-selling plug-in electric car worldwide for the years 2015 and 2016.[43]
+
+On July 15, 2013, Tesla became a NASDAQ-100 company.[44]
+
+In 2014, Tesla announced Tesla Autopilot, a driver-assistance system. In September of that year, all Tesla cars started shipping with sensors and software to support the feature, with what would later be called "hardware version 1".[45]
+
+Tesla entered the energy storage market, unveiling its Tesla Powerwall (home) and Tesla Powerpack (business) battery packs in April 2015.[46] The company received orders valued at $800 million within a week of the unveiling.[47]
+
+In September 2015, Tesla began shipping its third vehicle, the luxury SUV Tesla Model X which had 25,000 pre-orders at the time.[48][49]
+
+SolarCity and Model 3 (2016–2018)
+In November 2016, Tesla diversified into the solar installation industry with the purchase of SolarCity, in an all-stock $2.6 billion deal.[50] The business was merged with Tesla's existing battery energy storage products division to form the Tesla Energy subsidiary.[51] The deal was controversial because at the time of the acquisition, SolarCity was facing liquidity issues of which Tesla's shareholders were not informed.[52] In February 2017, Tesla Motors changed its name to Tesla, Inc., to better reflect the scope of its expanded business.[53] Jon McNeill, Tesla’s president of global sales, delivery and service, assumed responsibility for government relations in 2017.[54] He later wrote The Algorithm, which includes a discussion of Tesla.[54]
+
+In April 2016, Tesla announced the Tesla Model 3, its first mass-market vehicle. The Model 3 was less expensive than Tesla's previous three vehicles; within a week, the company received over 325,000 paid reservations.[55] To speed up production and control costs, Tesla invested heavily in robotics and automation to assemble the Model 3, but the robotics actually slowed the production of the vehicles.[56] This led to significant delays and production problems, a period which the company described as "production hell".[57][58] By the end of 2018, the production problems had been overcome, and the Model 3 became the world's best-selling electric car from 2018 to 2021.[59][60]
+
+This period of "production hell" put significant financial pressure on Tesla, and during this time it became one of the most shorted companies in the stock market. On August 8, 2018, amid the financial issues, Musk posted on social media that he was considering taking Tesla private.[61][62] The plan did not materialize and gave rise to much controversy and many lawsuits including a securities fraud charge from the SEC, which forced Musk to pay a $20 million fine and step down as the company's chairman, although he was allowed to remain the CEO.[citation needed]
+
+Global expansion and Model Y (2019–present)
+From July 2019 to June 2020, Tesla reported four consecutive profitable quarters for the first time, which made it eligible for inclusion in the S&P 500.[63] During 2020, its share price increased 740%,[64] and by December 14, 2020, its market capitalization was more than the next nine largest automakers combined,[65] and it became the sixth most valuable company in the US.[66] Tesla was added to the S&P index on December 21, 2020;[67] it was the most valuable company ever added, and was the sixth-largest member of the index immediately after it was added.[67][68] It became the sixth US company to reach $1 trillion in market capitalization in October 2021.[69]
+
+In March 2019, Tesla introduced the Model Y mid-size crossover SUV, its second mass-market vehicle, based on the Model 3.[70][71] Deliveries started in March 2020.[72]
+
+During this period, Tesla invested heavily in expanding its production capacity, opening three new Gigafactories in quick succession. Construction of Gigafactory Shanghai started in January 2019, as the first automobile factory in China fully owned by a foreign company (not a joint venture).[73] The factory's first production vehicle, a Model 3, rolled out in December, less than one year after groundbreaking.[74] Gigafactory Berlin broke ground in February 2020,[75] and its production of the Model Y began in March 2022.[76] Gigafactory Texas broke ground in June 2020,[77] and its production of the Model Y began in April 2022.[78] In March 2023, Tesla announced plans for a Gigafactory Mexico to open in 2025,[79] but its groundbreaking has been delayed.[citation needed]
+
+At the beginning of the COVID-19 pandemic, Tesla closed the Fremont Factory in March 2020 due to California state and Alameda county COVID restrictions.[80] When California lifted restrictions, but the county did not, Tesla sued the county, and restarted production on May 11, 2020.[81] The county lifted restrictions on May 13, 2020, and Tesla dropped its lawsuit.[82] After the dispute with county officials, on December 1, 2021, Tesla moved its legal headquarters to Gigafactory Texas.[83][84] However, Tesla continued to use its former headquarters building in Palo Alto, and over the next two years significantly expanded its footprint in California. The company opened its Megafactory to build Megapack batteries in Lathrop, California in 2022,[85] and announced in February 2023 that it would establish a large global engineering headquarters in Palo Alto, moving into a corporate campus once owned by Hewlett Packard.[86]
+
+In early 2021, Tesla became a major investor in bitcoin, acquiring $1.5 billion of the cryptocurrency,[87] and on March 24, 2021, the company started accepting bitcoin as a form of payment for US vehicle purchases.[88] However, after 49 days, the company ended bitcoin payments over concerns that the production of bitcoin was contributing to the consumption of fossil fuels, against the company's mission of encouraging the transition to sustainable energy.[89] After the announcement, the price of bitcoin dropped around 12%.[90] Musk later noted that Tesla would resume bitcoin payments if there was confirmation of at least 50% clean energy usage by bitcoin miners. Despite later reaching this milestone, Tesla did not return to accepting bitcoin.[91] By July 2022 Tesla had sold about 75% of its bitcoin holdings at a loss, citing that the cryptocurrency was hurting the company's profitability.[92]
+
+Between May 2023 and February 2024, almost all major North America EV manufacturers announced plans to switch to Tesla's North American Charging Standard adapters on their EVs by 2025, which is expected to be a stable source of recurring revenue for Tesla.[93] In November, Tesla started shipping the Cybertruck, produced from Gigafactory Texas.[94]
+
+In April 2024, the company announced it was laying off 10% of its employees.[95] In June, the company moved its incorporation from Delaware to Texas.[96] In October, the company unveiled a concept version of two autonomous vehicles – the Cybercab and Robovan – and detailed that both would be an integral part of a Tesla ridehailing service called the Tesla Network,[97][98] a future service it had previously teased in 2019.[99]
+
+In December 2024, a Delaware court rejected Musk's $56 billion pay package from Tesla, ruling that it was not properly approved by the company's board. The decision arose from a lawsuit by Tesla shareholders who claimed the compensation was excessive and not aligned with performance metrics.[100]
+
+By February 2025, Tesla saw large decreases in its stock price and sales across Europe widely attributed to Musk's political advocacy and embrace of far-right politics.[101] Polling found that Musk's ties to United States President Donald Trump and his Department of Government Efficiency were strongly correlated to decreasing views of Tesla,[102][103] and triggered multiple protests, vandalism, gunfire, and arson at Tesla stores and charging stations.[104][105] By March 7, Tesla's stock had decreased every week for seven straight weeks since Musk joined the Trump administration, making it the longest losing streak for Tesla in 15 years as a public company.[106] On March 29, over 200 protests against Tesla were held worldwide.[107]
+
+In July 2025, Tesla released a software update adding the artificial intelligence (AI) chatbot Grok to its vehicles. While the update provides in-car chatbot functionality, it does not give Grok control over vehicle functions.[108] The same month, Tesla opened its first showroom in India at the Bandra-Kurla Complex in Mumbai, showcasing the Model Y as its debut offering.[109][110] In August, Tesla integrated Deepseek and Bytedance's Doubao AIs into Chinese models. Unlike vehicles equipped with Grok, AI in Tesla's Chinese vehicles may be used to control vehicle functions, as well as act as a chatbot.[111][112]
+
+In December 2025, Tesla's UK registrations fell by more than 29% year-on-year. UK sales also fell by 8.9% year-on-year.[113]
+
+In January 2026, the title of world's largest battery electric vehicle manufacturer was lost to Chinese competitor BYD after full year 2025 deliveries were reported by both companies (2,256,714 vs 1,636,129 BEV sales).[114]
+
+On January 28, 2026, Musk stated that Tesla would discontinue the Model S and Model X in the second quarter of 2026 to focus on manufacturing the Optimus robot.[115]
+
+In March 2026, Elon Musk unveiled a joint project between Tesla and xAI. The project pairs xAI's Grok large language model, acting as a high-level navigator with a Tesla-developed AI agent that processes real-time computer screen video and keyboard and mouse actions.[116]
+
+On March 21, 2026, SpaceX announced the project to build Terafab, a joint project with Tesla, SpaceX and xAI, to build a large semiconductor fabrication project centering on the construction of a vertically integrated "mega-fab" designed to produce more than one terawatt (one trillion watts) of artificial intelligence compute capacity per year, encompassing advanced logic chips, memory modules, and packaging technologies.[117][118][119]
+
+Automotive products
+As of April 2026, Tesla offers five vehicle models: Model 3, Model Y, Semi, Cybertruck, and Cybercab. Tesla no longer sold three vehicle models, the first-generation Tesla Roadster, Model S, and Model X. Tesla has announced plans for a second-generation Roadster, along with future vehicles such as the Robovan.
+
+Available products
+Model 3
+Main article: Tesla Model 3
+
+Tesla Model 3
+The Model 3 is a mid-size car with a fastback body style and either a dual-motor, all-wheel drive layout or a rear-motor, rear-wheel drive layout. The vehicle was designed to be more affordable than the luxury Model S sedan. A prototype Model 3 was first shown in 2016 and within a week, the company received over 325,000 paid reservations.[55] Deliveries started in July 2017.[120] The Model 3 ranked as the world's best-selling electric car from 2018 to 2021,[121][60][122] and cumulative sales passed 1 million in June 2021.[123] The vehicle has seen one major design refresh in September 2023 which revised the exterior and interior.[citation needed]
+
+Model Y
+Main article: Tesla Model Y
+
+Tesla Model Y
+The Model Y is a mid-size crossover SUV offered in 5- and 7-passenger configurations with a single‐motor, rear-wheel drive or a dual-motor, all-wheel drive layout. The vehicle was designed to be more affordable than the luxury Model X SUV. A prototype Model Y was first shown in March 2019,[70] and deliveries started in March 2020.[72] The Model Y shared around 75 percent of its content with the Model 3.[71] In the first quarter of 2023, the Model Y outsold the Toyota Corolla to become the world's best-selling car, the first electric vehicle to claim the title.[124]
+
+Semi
+Main article: Tesla Semi
+
+Tesla Semi prototype
+The Tesla Semi is a Class 8 semi-truck by Tesla, Inc., with a tri-motor, rear-wheel drive layout. Tesla states that the Semi has approximately three times the power of a typical diesel semi truck, and a range of 500 miles (800 km).[125] Two prototype trucks were first shown in November 2017 and initial deliveries were made to PepsiCo on December 1, 2022.[126] High-volume production started on April 29, 2026.[127]
+
+Cybertruck
+Main article: Tesla Cybertruck
+
+Tesla Cybertruck
+The Cybertruck is a full-sized pickup truck. First announced in November 2019, pilot production began in July 2023, after being pushed back multiple times, and deliveries began on November 30, 2023. Three models are offered: rear-wheel drive, dual-motor all-wheel drive, and trimotor all-wheel drive, with EPA range estimates of 320–340 miles (510–550 km), depending on the model. The truck's exterior design, made from flat sheets of unpainted stainless steel, earned a notably polarizing reception from the media.[128][129][130] Tesla initially planned for Cybertruck production capacity of more than 250,000 units, but as of 2025 the company is only selling around 20,000 units per year.[131]
+
+Cybercab
+Main article: Tesla Cybercab
+
+Tesla Cybercab prototype
+The Tesla Cybercab is a two-passenger battery-electric self-driving car under development by Tesla. It is expected to be part of the Tesla Robotaxi service.[citation needed]
+
+A concept version of the Cybercab was unveiled in October 2024, with 20 prototypes providing short rides to attendees of the announcement event. The concept vehicle had no steering wheel or pedals.[132][133]
+
+The production of Cybercab is planned to be fully autonomous and to be released before 2027.[citation needed]
+
+Concept vehicles
+Roadster (second generation)
+Main article: Tesla Roadster (second generation)
+
+Tesla Roadster prototype
+On November 16, 2017, Tesla unveiled the second generation Roadster with a purported range of 620 miles (1,000 km) with a 200-kilowatt-hour (720 MJ) battery pack that would achieve 0–60 miles per hour (0–97 km/h) in 1.9 seconds; and 0–100 mph (0–161 km/h) in 4.2 seconds,[134] and a top speed over 250 mph (400 km/h). A "SpaceX Package" would include cold-gas thrusters.[135] The vehicle would have three electric motors, allowing all-wheel drive and torque vectoring during cornering.[135] The base price was set at $200,000.[135] Initially scheduled to ship in 2020, the vehicle has been repeatedly delayed. In July 2024, Musk said that the Roadster should enter production in 2025.[136] The set date for the start of production is now 2027.[citation needed]
+
+Tesla next-generation vehicle
+Main article: Tesla next-generation vehicle
+The Tesla next-generation vehicle is an announced battery electric platform. It would become the third platform for the company. Vehicles based on this platform are not expected before 2025.[137] In July 2024, Musk said that the platform should be expected to become available in the first half of 2025.[136]
+
+Robovan
+Main article: Tesla Robovan
+The Tesla Robovan is an electric autonomous van planned for future development by Tesla.[138] Announced in October 2024, the vehicle is being designed to carry up to 20 passengers.[98]
+
+Discontinued vehicles
+Roadster (first generation)
+Main article: Tesla Roadster (first generation)
+
+The original Roadster
+The first generation Tesla Roadster[139] was a two-seat sports car, rebuilt from the Lotus Elise chassis.[140] It was produced from 2008 to 2012. The Roadster was the first highway-legal serial production electric car to use lithium-ion battery cells, and the first production all-electric car to travel more than 200 miles (320 km) per charge.[citation needed]
+
+Model S
+Main article: Tesla Model S
+
+Tesla Model S
+The Model S is a full-size car sedan with a liftback body style and a dual motor, all-wheel drive layout. Development of the Model S began before 2007, and deliveries started in June 2012. The Model S has seen two major design refreshes, first in April 2016, which introduced a new front-end design, and again in June 2021, which revised the interior. The Model S was the top-selling plug-in electric car worldwide in 2015 and 2016. More than 250,000 vehicles have been sold as of December 2018 (when Tesla merged production numbers for the Model S and Model X).[citation needed]
+
+Model X
+Main article: Tesla Model X
+
+Tesla Model X
+The Model X is a mid-size luxury crossover SUV offered in 5-, 6-, and 7-passenger configurations with either a dual- or trimotor, all-wheel drive layout. The rear passenger doors open vertically with an articulating "falcon-wing" design. A prototype Model X was first shown in February 2012, and deliveries started in September 2015.[141] The Model X shares around 30 percent of its content with the Model S. The vehicle has seen one major design refresh in June 2021 which revised the interior.[citation needed]
+
+Discontinued vehicle features
+As of January 22, 2026, Tesla has officially discontinued its basic Autopilot driver-assistance feature for new vehicles in the United States and Canada, replacing it with only Traffic Aware Cruise Control as the standard safety system. The move is part of a broader shift toward its more advanced Full Self-Driving (FSD) system, which is available only as a monthly subscription as of February 14, 2026.[142]
+
+Services
+Connectivity services
+Tesla cars come with "Standard Connectivity", which provides navigation using a cellular connection. For a fee, Tesla offers a subscription to "Premium Connectivity", which adds live traffic and satellite maps to navigation, internet browsing, and media streaming.[143]
+
+Vehicle servicing
+Tesla's strategy is to service its vehicles first through remote diagnosis and repair. If a problem cannot be resolved remotely, Tesla dispatches a mobile technician or directs customers to a company-owned service center.[144][145] As of October 2024, the company operates 1,306 retail stores, galleries, service, delivery and body shop locations globally.[146] Tesla has said that it does not want to make a profit on vehicle servicing, which has traditionally been a large profit center for most auto dealerships.[147]
+
+In 2016, Tesla recommended having any Tesla car inspected every 12,500 miles or once a year, whichever comes first. In early 2019, the manual was changed to say: "your Tesla does not require annual maintenance and regular fluid changes," and instead it recommends periodic servicing of the brake fluid, air conditioning, tires, and air filters.[148]
+
+Charging services
+Supercharger network
+Main article: Tesla Supercharger
+Supercharger is the branding used by Tesla for its high-voltage direct current fast chargers.[citation needed]
+
+
+Tesla Supercharger station in Wittenburg, Germany
+The Supercharger network was introduced on September 24, 2012, as the Tesla Model S entered production, with six stations in California. As of November 2025, Tesla operates a network of about 7,900 Supercharger stations with over 75,000 connectors worldwide. The majority are located in three regions: Asia Pacific (3,000 stations), North America (3,000), and Europe (1,500). Superchargers can currently output as much as 500 kilowatts (kW).
+
+Destination charging location network
+
+"Destination Charger" in North America
+Tesla also has a network of "Destination Chargers", slower than Superchargers and intended for locations where customers are expected to park and stay for several hours, such as hotels, restaurants, or shopping centers. Unlike the Supercharger network, Tesla does not own the destination chargers; instead, property owners set up the devices and set pricing.[149] When the network first launched in 2014, Tesla provided free charging equipment and covered installation costs.[citation needed] One of the largest providers is hotel chain Hilton Worldwide which in 2023 announced an agreement with Tesla to install 20,000 chargers across 2,000 of its properties in North America by 2025.[150]
+
+Insurance services
+Tesla has offered its own vehicle insurance in the United States since 2017 and has been acting as an independent insurance producer since 2021 as Tesla Insurance Services, Inc. It was introduced after the American Automobile Association (AAA), a major insurance carrier, raised rates for Tesla owners in June 2017 after a report concluded that the automaker's vehicles crashed more often and were pricier to repair than comparable vehicles.[151] A study in 2018 based on data from the Insurance Institute for Highway Safety confirmed the findings.[152]
+
+The company says that it uniquely understands its vehicles, technology, and repair costs, and can eliminate traditional insurance carriers' additional charges.[153] In states where allowed, the company uses individual vehicle data to offer personalized pricing that can increase or decrease in cost based on the prior month's driving safety score.[154]
+
+As of January 2023, Tesla offers insurance in the US states of Arizona, California, Colorado, Illinois, Maryland, Minnesota, Nevada, Ohio, Oregon, Texas, Utah, and Virginia.[155] The company also offers insurance for non-Tesla vehicles owned by Tesla owners.[153]
+
+Robotaxi
+Main article: Tesla Robotaxi
+Robotaxi is a ride-hailing service launched by Tesla in 2025. It currently operates in Austin, Texas. Robotaxis currently rely on human supervisors, with the intent of eventually allowing for fully autonomous rides.[156][157]
+
+Energy products
+Main article: Tesla Energy
+
+Two Tesla Powerwall 2 home energy storage devices from Tesla Energy
+Tesla subsidiary Tesla Energy develops, builds, sells, and installs solar energy generation systems and battery energy storage products (as well as related products and services) to residential, commercial, and industrial customers. The subsidiary was created by the merger of Tesla's existing battery energy storage products division with SolarCity, a solar energy company that Tesla acquired in 2016.[158] In 2023, the company deployed 14.7 gigawatt-hours of battery energy storage products, an increase of 125% over 2022, but only deployed solar energy systems capable of generating 223 megawatts, a decrease of 36% over 2022.[159]
+
+Tesla Energy products include solar panels (built by other companies for Tesla), the Tesla Solar Roof (a solar shingle system), and the Tesla Solar Inverter. Storage products include the Powerwall (a home energy storage device) and the Megapack (a large-scale energy storage system).[160][161][162]
+
+For large-scale customers, Tesla Energy operates an online platform which allows for automated, real-time power trading, demand forecasting and product control.[163][164][165] In March 2021, the company said its online products were managing over 1.2 GWh of storage.[166] For home customers, the company operates a virtual power company in Texas called Tesla Electric, which utilizes the company's online platforms to manage customers Powerwall devices, discharging them into the grid to sell power when prices are high, earning money for customers.[167][168]
+
+Business strategy
+
+Robotic manufacturing of the Model S at the Tesla Factory in Fremont, California
+At the time of Tesla's founding in 2003, electric vehicles were costly.[169] In 2006, Musk stated that Tesla's strategy was to first produce high-price, low-volume vehicles, such as sports cars, for which customers are less sensitive to price. This would allow it to progressively bring down the cost of batteries, which in turn would allow it to offer cheaper and higher volume cars.[21][170] Tesla's first vehicle, the Roadster, was low-volume (fewer than 2,500 were produced) and priced at over $100,000. The next models, the Model S and Model X, are more affordable but still luxury vehicles. The Model 3 and the Model Y, are priced still lower, and aimed at a higher volume market,[171][172] selling over 100,000 vehicles each quarter. Tesla continuously updates the hardware of its cars rather than waiting for a new model year, unlike nearly every other car manufacturer.[173]
+
+Unlike other automakers, Tesla does not rely on franchised dealerships to sell vehicles. Instead, the company sells vehicles directly through its website and a network of company-owned stores.[174][175] The company is the first automaker in the United States to sell cars directly to consumers since the widespread adoption of the franchised dealer model.[176][177] Some jurisdictions, particularly in the United States, prohibit auto manufacturers from directly selling vehicles to consumers. In these areas, Tesla has locations that it calls galleries that the company says "educate and inform customers about our products, but such locations do not actually transact in the sale of vehicles."[178][179] In total, Tesla operates nearly 400 stores and galleries in more than 35 countries.[180] These locations are typically located in retail shopping districts, inside shopping malls, or other high-traffic areas,[175] instead of near other auto dealerships.[181][182][183]
+
+Analysts describe Tesla as vertically integrated, given how it develops many components in-house, such as batteries, motors, and software.[184] The practice of vertical integration is rare in the automotive industry, where companies typically outsource 80% of components to suppliers and focus on engine manufacturing and final assembly.[185][186][187]
+
+Tesla generally allows its competitors to license its technology, stating that it wants to help its competitors accelerate the world's use of sustainable energy.[188] Licensing agreements include provisions whereby the recipient agrees not to file patent suits against Tesla, or to copy its designs directly.[189] Tesla retains control of its other intellectual property, such as trademarks and trade secrets to prevent direct copying of its technology.[190]
+
+On April 15, 2024, Tesla secured a deal with Tata Electronics to supply semiconductor chips, marking a significant step in Tesla's expansion into India's automotive market.[191]
+
+On May 2, 2024, Tesla announced that it had abandoned its plan for next-generation gigacasting, a cutting-edge manufacturing technique. Initially aiming to revolutionize production and reduce costs, Tesla has now opted for its more proven method of casting vehicle underbodies in three pieces. This strategic shift reflects the company's focus on self-driving vehicles and adjusting to market challenges.[192]
+
+Technology
+Tesla is highly vertically integrated and develops many components in-house, such as batteries, motors, and software.[184]
+
+Batteries
+
+Tesla vehicle chassis used in Model S and X, with the battery visible
+
+Comparison of Tesla's three cylindrical battery cell form factors
+As of 2023, Tesla uses four different battery cell form factors: 18650, 2170, 4680, and prismatic.[193][194][195]
+
+Tesla purchases these batteries from three suppliers, CATL, LG Energy Solution, and Panasonic, the latter of which has co-located some of its battery production inside Tesla's Gigafactory Nevada. Tesla is also currently building out the capacity to produce its own batteries.[citation needed]
+
+Tesla batteries sit under the vehicle floor to save interior space. Tesla uses a multipart aluminum and titanium protection system to protect the battery from road debris or vehicle crashes.[196]
+
+Business analysis company BloombergNEF estimated Tesla's battery pack cost in 2021 at $112 per kilowatt-hour (kWh), versus an industry average of $132 per kWh.[197]
+
+18650
+Tesla was the first automaker to use cylindrical lithium-ion battery cells. When it built the first generation Roadster, it used off-the-shelf 18650-type (18 mm diameter, 65 mm height) cylindrical batteries that were already used for other consumer electronics. The cells provided an engineering challenge because each has a relatively low capacity, so thousands needed to be bundled together in a battery pack. Electrical and thermal management also proved to be a challenge, requiring liquid cooling and an intumescent fire prevention chemical.[198] However, the decision turned out to be pragmatic because there was already a mature manufacturing process that could produce a high volume of the cells at a consistent quality. Although the 18650-type cells are the oldest technology, they are used in the Model S and X vehicles. Tesla sources these batteries with a nickel-cobalt-aluminum (NCA) cathode chemistry from Panasonic's factories in Japan.[193]
+
+2170
+The next battery type to be used was the 2170-type (21 mm diameter, 70 mm height) cylindrical cell. The larger size was optimized for electric cars, allowing for a higher capacity per cell and a lower number of cells per battery pack. The 2170 was introduced for the Model 3 and Y vehicles.[193]
+
+For vehicles built at the Tesla Fremont Factory, the company sources 2170-type batteries with a nickel-cobalt-aluminum cathode chemistry from Panasonic's production line at Gigafactory Nevada.[199] In January 2021, Panasonic had the capacity to produce 39 GWh per year of battery cells there.[200] Tesla Energy also uses 2170 cells in its Powerwall home energy storage product.[citation needed]
+
+For vehicles made at Gigafactory Shanghai and Gigafactory Berlin, batteries with a nickel-cobalt-manganese (NMC) cathode chemistry are sourced from LG Energy Solution's factories in China.[193]
+
+4680
+Tesla's latest cylindrical cell design is the 4680-type (46 mm diameter, 80 mm height) introduced in 2021. The battery was developed in-house by Tesla and is physically 5 times bigger than the 2170-type, again allowing for a higher capacity per cell and a lower number of cells per battery pack.[201][202] Currently, Tesla builds the 4680 cells itself and has not disclosed the cathode chemistry, though several independent analyses have indicated that it utilizes a nickel-manganese-cobalt (NMC811) chemistry.[203][204][205] The company has already opened production lines in Fremont, California, and plans to open lines inside Gigafactory Nevada and Gigafactory Texas. The 4680 cells are used in the Model Y and Cybertruck built at Gigafactory Texas.[193]
+
+Prismatic
+Tesla also uses prismatic (rectangular) cells in many entry-level Model 3 and Model Y vehicles.[193] The prismatic cells are a lithium iron phosphate battery (LFP or LiFePO
+4), which is a less energy-dense type, but does not contain any nickel or cobalt, which makes it less expensive to produce.[206] Tesla sources these batteries from CATL's factories in China. As of April 2022, nearly half of Tesla's vehicle production used prismatic cells.[207] Tesla Energy also uses prismatic cells in its Megapack grid-scale energy storage product.[208]
+
+Research
+Tesla invests in lithium-ion battery research. In 2016, the company established a 5-year battery research and development partnership at Dalhousie University in Nova Scotia, Canada, with lead researcher Jeff Dahn.[209] Tesla acquired Maxwell Technologies for over $200 million[210] – and sold in 2021.[211] It also acquired Hibar Systems.[212][213] Tesla purchased several battery manufacturing patent applications from Springpower International, a small Canadian battery company.[214][215]
+
+Lithium Refinement
+In 2023 Tesla broke ground on a $375 million lithium refining facility near Robstown, Texas in the US.[216] The plant's process will eliminate the use of sulfuric acid in lithium processing, thereby eliminating the associated sodium sulfate waste product.[216] Local concerns have been raised over the plant's water usage with initial estimates of 400,000 US gal (1,500,000 L; 330,000 imp gal) per day for normal operation, rising to a peak usage estimate of 8,000,000 US gal (30,000,000 L; 6,700,000 imp gal) per day.[217]
+
+Software
+Tesla uses over-the-air updates to deliver updates to vehicles, adding features or fixing problems.[218] This is enabled by tight integration between a few powerful onboard computers, compared to the way automakers had previously handled technology, by purchasing off-the-shelf electronic components for each subsystem that typically could not interface at the software level.[219]
+
+The system has also allowed Tesla to control which features customers have access to. For example, for ease of assembly, all Model 3 vehicles were built with heated rear seats, but only customers who purchased a premium interior could turn them on. However, Tesla has allowed customers who didn't pay for a premium interior to purchase access to the heated rear seats.[220] Tesla uses a similar software lock feature for Enhanced Autopilot and Full-Self Driving features, even though all vehicles are equipped with the computers and cameras necessary to enable those features.[221]
+
+Motors
+Tesla makes two kinds of electric motors: an induction motor, and an internal permanent magnet (IPM) motor with synchronous reluctance motor (SynRM) characteristics.[citation needed]
+
+The older design is a three-phase four-pole alternating current induction motor (also called an asynchronous motor) with a copper rotor (which inspired the Tesla logo).[222] These motors use electromagnetic induction, by varying magnetic field to produce torque. Induction motors are used as the rear motor in the Model S and Model X, as the front motor in the Model 3 and Model Y, and were used in the first-generation Roadster.[citation needed]
+
+Since the introduction of the Model 3 in 2017, Tesla has also been building IPM-SynRM motors. These motors use an iron rotor, with slots cut into the metal where magnets are inserted in the internal core. As an IPM motor, it produces excellent starting torque; however, performance declines at high speeds due to counter-electromotive forces. For high-speed operation, Tesla engineers used iron's reluctance property, which allows it to spin in synchronization with the magnetic field of the stator if channels are cut into the core. These channels were also an ideal internal location for the permanent magnets to be mounted.[223][224] The IPM-SynRM motor is currently used as the rear motor in the Model 3 and Model Y, the front motor of 2019-onward versions of the Model S and X, and are expected to be used in the Tesla Semi.[225]
+
+North American Charging Standard
+Main article: North American Charging Standard
+The North American Charging Standard (NACS) is an electric vehicle charging connector system developed by Tesla. It has been used on all North American market Tesla vehicles since 2012 and was opened for use by other manufacturers in 2022. Since then, nearly every other vehicle manufacturer has announced that starting from 2025, their electric vehicles sold in North America will be equipped with the NACS charge port. Several electric vehicles charging network operators and equipment manufacturers have also announced plans to add NACS connectors.[226]
+
+"Autopilot" and "Full Self-Driving (Supervised)"
+This section is an excerpt from Tesla Autopilot.[edit]
+
+Tesla Autopilot in operation, 2017
+Tesla Autopilot is an advanced driver-assistance system (ADAS) developed by Tesla, Inc. that provides partial vehicle automation, corresponding to Level 2 automation as defined by SAE International. All Tesla vehicles produced after April 2019 include Autopilot, which provides autosteer and traffic-aware cruise control. As of February 2026, customers can subscribe to an optional Level 2 package called "Full Self-Driving (Supervised)" (FSD), which adds semi-autonomous navigation on nearly all roads, self-parking, and the ability to summon the car from a parking space. In May 2026, the National Highway Traffic Safety Administration (NHTSA) said that recent Tesla Model Ys are the first cars to pass the agency’s new benchmark for advanced driver assistance systems.[227]
+
+Since 2013, Tesla CEO Elon Musk has repeatedly predicted that the company would achieve fully autonomous driving (SAE Level 5) within one to three years, but as of May 2026, these goals are still to be met. The branding of Full Self-Driving has drawn criticism for potentially misleading consumers. Tesla vehicles currently operate at Level 2 automation, which requires continuous driver supervision and does not constitute "full" self-driving capability. Previously, the Autopilot branding was also criticized for similar reasons, despite the fact that no autopilot system in aircraft rendered them fully autonomous.
+
+Tesla claims that its driver-assistance features improve safety and reduce accidents caused by driver fatigue or inattention. However, collisions and fatalities involving Autopilot and FSD have attracted scrutiny from media and regulators. Industry experts and safety advocates have raised concerns about the deployment of the software to the general public, calling the practice risky and potentially irresponsible.
+
+Glass
+In November 2016, the company announced the Tesla Glass technology group. The group produced the roof glass for the Tesla Model 3. It also produces the glass used in the Tesla Solar Roof's solar shingles.[228]
+
+Robotics
+In preparation for Model 3 production, Tesla heavily invested in robotics and automation for vehicle assembly, and between 2015 and 2017, the company purchased several companies involved in automation and robotics including Compass Automation,[229] Grohmann Automation,[230] Perbix Machine Company, and Riviera Tool and Die.[231] Musk later said that the robotics slowed production of the vehicles.[56]
+
+Subsequently, Tesla shifted towards using massive casting machines, known as Giga Presses. These machines streamline production by creating large, single-piece underbodies, leading to reductions in production time, labor costs, factory footprint, and the number of welding robots.[232][233] Critics note that reducing the number of components makes the vehicles harder or more expensive to repair after an accident.[234]
+
+The company has been developing a humanoid robot called Optimus since 2022. Musk has stated that Optimus leverages the same core software powering Tesla's Full Self-Driving technology and has suggested that it could be used within Tesla's factories to mitigate labor shortages through the automation of repetitive tasks.[235]
+
+On January 28, 2026, Tesla announced it would stop manufacturing the Model S and Model X to focus efforts on Optimus. The goal is to produce 1 million robots per year at the Fremont facility.[236]
+
+Facilities
+See also: List of Tesla factories
+The company operates seven large factories and about a dozen smaller factories around the world. As of December 2024, the company also operates more than 1,350 retail stores, galleries, service, delivery, and body shop locations globally.[237]
+
+Primary facilities operated by Tesla
+Opened	Name	City	Country	Employees	Products	Ref.
+2010	Tesla Fremont Factory	Fremont, California	United States	22,000	Model S, Model X, Model 3, Model Y	[36][238][239]
+2016	Gigafactory Nevada	Storey County, Nevada	United States	7,000	Batteries, Powerwall, Semi	[240][241][242]
+2017	Gigafactory New York	Buffalo, New York	United States	1,500	Solar Roof, Supercharger	[243][244]
+2019	Gigafactory Shanghai	Shanghai	China	20,000	Model 3, Model Y, Supercharger	[245][246]
+2022	Gigafactory Berlin	Grünheide	Germany	10,000	Model Y	[247][248][249]
+2022	Gigafactory Texas	Austin, Texas	United States	12,000	Model Y, Cybertruck	[250][251][252]
+North America
+Main articles: Tesla Fremont Factory, Gigafactory Nevada, Gigafactory New York, Gigafactory Texas, and Gigafactory Mexico
+
+New Tesla Model S cars at the Tesla Fremont Factory in 2012
+Tesla was founded in San Carlos, California in 2003.[253] In 2008, the company opened its first production facility at a former Chevrolet dealership in Menlo Park, California. The original roadster was assembled inside the service bays until 2012 and used the company's showroom as a retail store.[30] Another retail store was opened in Los Angeles the same year.[254] In 2010, Tesla moved its corporate headquarters and opened a powertrain development facility in Palo Alto.[255]
+
+Tesla's first major assembly plant occupies the former NUMMI plant in Fremont, California, known as the Tesla Fremont Factory. The factory was originally opened by General Motors in 1962, and then operated by NUMMI, a joint venture of GM and Toyota from 1984.[256] The joint venture ended when GM entered bankruptcy in 2009. In 2010, Toyota agreed to sell the plant to Tesla at a significant discount.[36]
+
+
+Gigafactory Nevada in 2019
+Tesla's first purpose-built facility was opened in Nevada in 2016. Gigafactory Nevada produces the Powerwall,[240] battery cells in partnership with Panasonic,[257] Model 3 drivetrains,[258] and the Tesla Semi.[259] The factory received substantial subsidies (abatements and credits) from the local and state government, that, in exchange for opening in their jurisdiction, allowed Tesla to operate essentially tax-free for 10 years,[260] later extended to 20 years in exchange for expanding the factory to add a production line for the Tesla Semi and add additional battery manufacturing capacity.[259]
+
+As part of the acquisition of SolarCity in 2016, Tesla gained control of Gigafactory New York in Buffalo on the site of a former Republic Steel plant. The state of New York spent cash to build and equip the factory through the Buffalo Billion program.[261][262] In 2017, the factory started production of the Tesla Solar Roof,[243] but faced multiple production challenges. Since 2020, Tesla has also assembled Superchargers in New York. The plant has been criticized for offering little economic benefit for the state funding.[263]
+
+In 2018, Tesla assembled tension fabric buildings at the Fremont plant to meet production goals of 5,000 cars produced a month. The structure was assembled in two weeks and measured 53 feet high, 150 feet wide, and 900 feet long.[264]
+
+
+Gigafactory Texas in 2022
+On July 23, 2020, Tesla picked Austin, Texas, as the site of its fifth Gigafactory, since then known as Gigafactory Texas.[265] Giga Texas is the only factory that produces the Tesla Cybertruck and produces Model Y cars for the Eastern United States. On December 1, 2021, Tesla announced it relocated its legal headquarters from Palo Alto to the Gigafactory Texas site in Austin.[266] However, Tesla has retained the Palo Alto building. On April 7, 2022, Tesla celebrated the opening of Gigafactory Texas in a public event.[78]
+
+Tesla acquired a former JC Penney distribution center near Lathrop, California in 2021 to build the "Megafactory" to manufacture the Megapack, the company's large-scale energy storage product.[267][268] The location opened in 2022.
+
+Tesla announced in February it would open a new global engineering headquarters in Palo Alto, moving into a corporate campus once owned by Hewlett Packard, located a couple of miles from Tesla's former headquarters building.[86]
+
+Tesla has announced plans to open a Gigafactory Mexico, the company's sixth Gigafactory, near Monterrey, Mexico. However, as of July 2024, the company had placed construction on hold until after the 2024 United States presidential election because former President Trump has pledged to add tariffs on cars made in Mexico.[269][needs update]
+
+Europe
+Main articles: Tesla facilities in Tilburg, Tesla Automation, and Gigafactory Berlin-Brandenburg
+
+Gigafactory Berlin in July 2023
+Tesla opened its first European store in June 2009 in London.[270] Tesla's European headquarters are in the Netherlands,[271] part of a group of Tesla facilities in Tilburg, including the company's European Distribution Centre.[272]
+
+In late 2016, Tesla acquired German engineering firm Grohmann Engineering as a new division dedicated to helping Tesla increase the automation and effectiveness of its manufacturing process.[273] After winding down existing contracts with other manufacturers, the renamed Tesla Automation now works exclusively on Tesla projects and is expanding its operations in Germany through the acquisition of other manufacturing specialists.[274]
+
+Tesla announced its plans to build a car and battery factory in Europe in 2016.[275] Several countries campaigned to be the host,[276] and eventually Germany was chosen in November 2019.[277] On March 22, 2022, Tesla's first European Gigafactory named Gigafactory Berlin[278][279] opened with planned capacity to produce 500,000 electric vehicles annually as well as batteries for the cars.[279]
+
+Asia
+Main article: Gigafactory Shanghai
+
+Tesla store in Tokyo, the first in Asia[280]
+Tesla opened its first showroom in Asia in Tokyo, Japan, in October 2010.[281]
+
+In July 2018, Tesla signed an agreement with Chinese authorities to build a factory in Shanghai, China, which was Tesla's first Gigafactory outside the United States.[282] The factory building was finished in August 2019, and the initial Tesla Model 3s were in production from Gigafactory Shanghai in October 2019.[245] In 2024, China accounted for 21% of Tesla sales revenue, and was the second-largest market for Tesla after the United States, which accounted for 48% of its sales.[283] Tesla also sold 37% of its cars in China in 2024.[284]
+
+Tesla expressed interest in 2023 in expanding to India and perhaps building a future Gigafactory in the country.[285] The company established a legal presence in the nation in 2021 and plans to open an office in Pune starting in October 2023.[286]
+
+Partners
+Panasonic
+
+Panasonic Energy president Naoto Noguchi presents Tesla executive J. B. Straubel with lithium-ion cells.
+In January 2010, Tesla and battery cell maker Panasonic announced that they would together develop nickel-based lithium-ion battery cells for electric vehicles.[287] Beginning in 2010, Panasonic invested $30 million for a multi-year collaboration on new battery cells designed specifically for electric vehicles.[288] In July 2014, Panasonic reached a basic agreement with Tesla to participate in battery production at Giga Nevada.[289] Tesla and Panasonic also collaborated on the manufacturing and production of photovoltaic (PV) cells and modules at the Giga New York factory in Buffalo, New York.[243] The partnership started in mid-2017 and ended in early 2020, before Panasonic exited the solar business entirely in January 2021.[290][291]
+
+In March 2021, the outgoing CEO of Panasonic stated that the company plans to reduce its reliance on Tesla as its battery partnership evolves.[292]
+
+Other current partners
+Tesla has long-term contracts in place for lithium supply. In September 2020, Tesla signed a sales agreement with Piedmont Lithium to buy high-purity lithium ore for up to ten years,[293] specifically to supply "spodumene concentrate from Piedmont's North Carolina mineral deposit".[294] In 2022, Tesla contracted for 110,000 tonnes of spodumene concentrate over four years from the Core Lithium's lithium mine in the Northern Territory of Australia.[295]
+
+Tesla also has a range of minor partnerships, for instance, working with Airbnb and hotel chains to install destination chargers at selected locations.[296] Another minor partnership would include Tesla's partnership with insurance company, Lemonade, to launch an autonomous car insurance.[297]
+
+Former partners
+Daimler
+
+The Mercedes-Benz B-Class Electric Drive used a Tesla-supplied battery pack.[298]
+Daimler and Tesla began working together in late 2007. On May 19, 2009, Daimler bought a stake of less than 10% in Tesla for a reported $50 million.[299][300] As part of the collaboration, Herbert Kohler, vice-president of E-Drive and Future Mobility at Daimler, took a Tesla board seat.[301] On July 13, 2009, Daimler sold 40% of its acquisition to Aabar, an investment company controlled by the International Petroleum Investment Company owned by the government of Abu Dhabi.[302] In October 2014, Daimler sold its remaining holdings for a reported $780 million.[303]
+
+Tesla supplied battery packs for Freightliner Trucks in 2010.[304][305] The company also built electric-powertrain components for the Mercedes-Benz A-Class E-Cell, with 500 cars planned to be built for trial in Europe beginning in September 2011.[306][307] Tesla produced and co-developed the Mercedes-Benz B250e's powertrain, which ended production in 2017.[308] The electric motor was rated 134 hp (100 kW) and 230 pound force-feet (310 N⋅m), with a 36 kWh (130 MJ) battery. The vehicle had a driving range of 200 km (124 mi) with a top speed of 150 km/h (93 mph).[309] Daimler division Smart produced the Smart ED2 cars from 2009 to 2012 which had a 14-kilowatt-hour (50 MJ) lithium-ion battery from Tesla.[310][311]
+
+Toyota
+
+Toyota RAV4 EV, which used a Tesla-supplied battery and powertrain components
+In May 2010, Tesla and Toyota announced a deal in which Tesla purchased the former NUMMI factory from Toyota for $42 million, Toyota purchased $50 million in Tesla stock, and the two companies collaborated on an electric vehicle.[36]
+
+In July 2010, the companies announced they would work together on a second generation Toyota RAV4 EV.[312] The vehicle was unveiled at the October 2010 Los Angeles Auto Show and 35 pilot vehicles were built for a demonstration and evaluation program that ran through 2011. Tesla supplied the lithium metal-oxide battery and other powertrain components[313][314] based on components from the Roadster.[315]
+
+The production version was unveiled in August 2012, using battery pack, electronics, and powertrain components from the Tesla Model S sedan (also launched in 2012).[316] The RAV4 EV had a limited production run which resulted in just under 3,000 vehicles being produced, before it was discontinued in 2014.[317][318]
+
+According to Bloomberg News, the partnership between Tesla and Toyota was "marred by clashes between engineers".[319] Toyota engineers rejected designs that Tesla had proposed for an enclosure to protect the RAV4 EV's battery pack. Toyota took over responsibility for the enclosure's design and strengthened it. In 2014, Tesla ended up adding a titanium plate to protect the Model S sedan's battery after some debris-related crashes led to cars catching fire.[319][196] On June 5, 2017, Toyota announced that it had sold all of its shares in Tesla and halted the partnership.[320][321]
+
+Mobileye
+Initial versions of Autopilot were developed in partnership with Mobileye beginning in 2014.[322] Mobileye ended the partnership on July 26, 2016, citing "disagreements about how the technology was deployed".[323]
+
+Lawsuits and controversies
+Main articles: List of lawsuits involving Tesla, Inc. and Criticism of Tesla, Inc.
+Failed lawsuit alleging unfair review
+In 2008, Tesla provided two Roadsters to the British entertainment car-testing television programme Top Gear for testing. Top Gear tested the car as a performance sports car—in a format designed for humour and entertainment, not an unbiased review about its intended purpose—and made some criticisms of its use as such, though full of praise for its performance and handling on the track. Tesla was incensed about what it considered unfair criticism. For example, the test affirmed that in the performance tests they ran the battery charge would have lasted for 55 miles, a figure that actually came from Tesla. Tesla said that the figure was untrue and libelous as the car's mileage in normal use was claimed to be 211, which they sued, and lost.[324][325]
+
+In 2025, when Tesla was the subject of protests and vandalism in response to Elon Musk's political activities with the Trump government, former Top Gear presenter Jeremy Clarkson published gloating remarks, saying that the vandalism was "not funny. But also, it's kinda hilarious. Especially if you're me."[326]
+
+Sexual harassment
+In 2021, seven women came forward with claims of having faced sexual harassment and discrimination while working at Tesla's Fremont factory.[327] They accused the company of facilitating a culture of rampant sexual harassment. The women said they were consistently subjected to catcalling, unwanted advances, unwanted touching, and discrimination while at work. "I was so tired of the unwanted attention and the males gawking at me, I proceeded to create barriers around me just so I could get some relief," Brooks told The Washington Post. "That was something I felt necessary just so I can do my job." Stories range from intimate groping to being called out to the parking lot for sex.[328]
+
+Women feared calling Human Resources for help, as their supervisors were often participants.[329] Musk himself is not indicted, but most of the women pressing charges believe their abuse is connected to the behavior of Musk as CEO. They cite his crude remarks about women's bodies, wisecracks about starting a university that abbreviated to "T.IT.S.", and his generally dismissive attitude towards reporting sexual harassment.[330] "What we're addressing for each of the lawsuits is just a shocking pattern of rampant harassment that exists at Tesla," said attorney David A. Lowe.[329] In 2017, another woman had accused Tesla of very similar behavior and was subsequently fired. In a statement to the Guardian, Tesla confirmed the company had terminated her employment, saying it had thoroughly investigated the employee's allegations with the help of "a neutral, third-party expert" and concluded her complaints were unmerited.[331]
+
+In May 2022, a California judge ruled that the sexual harassment lawsuit could move to court, rejecting Tesla's request for closed-door arbitration.[332]
+
+Labor disputes
+Main article: Tesla and unions
+This section is an excerpt from Elon Musk and trade unions § Tesla.[edit]
+Five smiling workers are standing together. They are holding signs that say "union" wrapped in hearts. Behind them, is a concrete stand emblazoned with the Tesla logo.
+Valentine's Day union drive at Giga New York in 2023
+Tesla has had labor disputes in the United States, Germany and Sweden, including an ongoing strike in Sweden. Tesla, Inc., an American electric car and solar panel manufacturer, has more than 140,000 workers employed across its global operations as of January 2024.[333] Tesla CEO Elon Musk has expressed his opposition to unions on Twitter (now called X). The National Labor Relations Board held that one tweet was unlawful, but was overturned by a federal appeals court.[334] All unionization efforts at the Tesla Fremont Factory and Gigafactory New York in the United States have been unsuccessful.[335] In Germany, Gigafactory Berlin-Brandenburg and Tesla Automation have elected works councils, but they have not signed collective bargaining agreements with the German trade union IG Metall.[336][337] The Gigafactory Berlin-Brandenburg works council is divided into pro-union and anti-union factions.[338] In Sweden, mechanics who are members of the trade union IF Metall have been on strike since October 27, 2023, making it the longest strike in Sweden since 1938.[339] The strike has since spread, with other Swedish, Danish and Norwegian unions calling for solidarity strikes.[340]
+
+Accidents, repairs, and safety violations
+In June 2016, the National Highway Traffic Safety Administration (NHTSA) took issue with Tesla's use of nondisclosure agreements (NDAs) regarding customer repairs[341] and, in October 2021, the NHTSA formally asked Tesla to explain its NDA policy regarding customers invited into the FSD Beta.[342] Tesla has used NDAs on multiple occasions with both employees[343] and customers[344] to allegedly prevent possible negative coverage.[345][346]
+
+From 2014 to 2018, Tesla's Fremont Factory had three times as many Occupational Safety and Health Administration (OSHA) violations as the ten largest US auto plants combined.[347] An investigation by the Reveal podcast alleged that Tesla "failed to report some of its serious injuries on legally mandated reports" to downplay the extent of injuries.[348]
+
+In January 2019, former Tesla security manager Sean Gouthro filed a whistleblower complaint alleging that the company had hacked employees' phones and spied on them, while also failing to report illegal activities to the authorities and shareholders.[349][350][351] Several legal cases have revolved around alleged whistleblower retaliation by Tesla. These include the dismissal of Tesla safety official Carlos Ramirez[352][353] and Tesla security employee Karl Hansen.[354] In 2020, the court ordered Hansen's case to arbitration.[355] In June 2022, the arbitrator filed an unopposed motion with the court stating Hansen "has failed to establish the claims… Accordingly, his claims are denied, and he shall take nothing".[356]
+
+The California Civil Rights Department filed a suit in 2022 alleging "a pattern of racial harassment and bias" at the Tesla Fremont factory. As of April 2023, the department is also conducting a probe of the factory based on a 2021 complaint and claims that Tesla has been obstructing the investigation.[357]
+
+According to Jalopnik, a 2024 study by iSeeCars found that Tesla had the highest fatal crash rate of any automaker in the United States.[358]
+
+A 2025 lawsuit in California alleged that Tesla odometers were falsely exaggerating their readings to prematurely void their warranty.[359]
+
+In 2025 in the US, Tesla faced a new federal investigation into possible safety defects in its FSD system. This followed 44 separate incident reports where Tesla drivers said the system caused them to commit safety violations, such as driving through red traffic lights.[360]
+
+Fraud allegations
+There have been numerous concerns about Tesla's financial reporting. In 2013, Bloomberg News questioned whether Tesla's financial reporting violated Generally Accepted Accounting Principles (GAAP) reporting standards.[361] Fortune accused Tesla in 2016 of using creative accounting to show positive cash flow and quarterly profits.[362] In 2018, analysts expressed concerns over Tesla's accounts receivable balance.[363] In September 2019, the SEC questioned Tesla CFO Zach Kirkhorn about Tesla's warranty reserves and lease accounting.[364] In a letter to his clients, hedge fund manager David Einhorn, whose firm suffered losses from its short position against Tesla that quarter, accused Musk in November 2019 of "significant fraud",[365][366] and publicly questioned Tesla's accounting practices, telling Musk that he was "beginning to wonder whether your accounts receivable exist."[367]
+
+From 2012 to 2014, Tesla earned more than $295 million in Zero Emission Vehicle credits for a battery-swapping technology that was never made available to customers.[368] Staff at California Air Resources Board were concerned that Tesla was "gaming" the battery swap subsidies and in 2013 recommended eliminating the credits.[369]
+
+A consolidated shareholders lawsuit alleges that Musk knew SolarCity was going broke before the acquisition, that he and the Tesla board overpaid for SolarCity, ignored their conflicts of interest and breached their fiduciary duties in connection with the deal, and failed to disclose "troubling facts" essential to an analysis of the proposed acquisition.[370] The members of the board settled in 2020, leaving Musk as the only defendant.[371] In April 2022, the Delaware Court of Chancery ruled in favor of Musk,[372][373] and its ruling was upheld by the Delaware Supreme Court in June 2023.[374]
+
+In August 2018, Musk tweeted, "Am considering taking Tesla private at $420. Funding secured."[375] The tweet caused the stock to initially rise, but then drop when it was revealed to be false.[376][377][378] Musk settled fraud charges with the US Securities and Exchange Commission (SEC) over his false statements in September 2018. According to the terms of the settlement, Musk agreed to have his tweets reviewed by Tesla's in-house counsel, he was removed from his chairman role at Tesla temporarily, and two new independent directors were appointed to the company's board.[379] Tesla and Musk also paid civil penalties of $20 million each.[379] A civil class-action shareholder lawsuit over Musk's statements and other derivative lawsuits were also filed against Musk and the members of Tesla's board of directors, as then constituted, regarding claims and actions made that were associated with potentially going private.[380][381] In February 2023, a California jury unanimously found Musk and Tesla not liable in the class-action lawsuit.[382]
+
+In September 2018, Tesla disclosed that it was under investigation by the US Federal Bureau of Investigation (FBI) regarding its Model 3 production figures.[383] Authorities were investigating whether the company misled investors and made projections about its Model 3 production that it knew would be impossible to meet.[383] A stockholder class action lawsuit against Tesla related to Model 3 production numbers (unrelated to the FBI investigation) was dismissed in March 2019.[384][385][386]
+
+In May 2024, Reuters reported that US federal prosecutors were investigating whether the company committed securities or wire fraud by "misleading investors and consumers" about Autopilot and Full Self-Driving.[387]
+
+Tesla US dealership disputes
+See also: Tesla US dealership disputes
+Unlike other automakers, Tesla does not rely on franchised auto dealerships to sell vehicles and instead directly sells vehicles through its website and a network of company-owned stores. In some areas, Tesla operates locations called "galleries" which "educate and inform customers about our products, but such locations do not actually transact in the sale of vehicles."[178] This is because some jurisdictions, particularly in the United States, prohibit auto manufacturers from directly selling vehicles to consumers. Dealership associations have filed lawsuits to prevent direct sales. These associations argued that the franchise system protects consumers by encouraging dealers to compete, lowering the price a customer pays. They also claimed that direct sales would allow manufacturers to undersell their dealers.[181] The United States Federal Trade Commission ultimately disproved the associations' claims and recommended allowing direct manufacturer sale, which they concluded would save consumers 8% in average vehicle price.[388][389][390]
+
+Tesla has also lobbied state governments for the right to directly sell cars.[391] The company has argued that directly operating stores improves consumer education about electric vehicles,[178] because dealerships would sell both Tesla and gas-powered vehicles. Doing this, according to the company, would then set up a conflict of interest for the dealers since properly advertising the benefits of an electric car would disparage the gas-powered vehicles, creating a disincentive to dealership EV sales.[181] Musk himself further contended that dealers would have a disincentive to sell electric vehicles because they require less maintenance and therefore would reduce after-sales service revenue, a large profit center for most dealerships.[147]
+
+Intellectual property
+Tesla has sued former employees for stealing company information, including those who left to work for a rival such as XPeng and Zoox.[392] For example, Guangzhi Cao, a Tesla engineer, was accused of uploading Tesla Autopilot source code to his iCloud account,[393] and Alex Khatilov was accused of downloading files related to its Warp Drive software to his personal Dropbox account.[394]
+
+Misappropriation
+In 2018, a class action was filed against Musk and the members of Tesla's board, alleging they breached their fiduciary duties by approving Musk's stock-based compensation plan.[381] Musk received the first portion of his stock options payout, worth more than $700 million, in May 2020.[395]
+
+In July 2023, Tesla board members returned $735 million to the company to settle a claim from a 2020 lawsuit alleging misappropriation of 11 million stock options granted to Elon Musk, Kimbal Musk, Larry Ellison, and others from 2017 to 2020.[396]
+
+Environmental violations
+In 2019, the United States Environmental Protection Agency fined Tesla for hazardous waste violations that occurred in 2017.[397] In June 2019, Tesla began negotiating penalties for 19 environmental violations from the Bay Area Air Quality Management District;[398] the violations took place around Tesla Fremont's paint shop, where there had been at least four fires between 2014 and 2019.[399] Environmental violations and permit deviations at Tesla's Fremont Factory increased from 2018 to 2019 with the production ramp of the Model 3.[400]
+
+In June 2018, Tesla employee Martin Tripp leaked information that Tesla was scrapping or reworking up to 40% of its raw materials at the Nevada Gigafactory.[401] After Tesla fired him for the leak, Tripp filed a lawsuit and claimed Tesla's security team gave police a false tip that he was planning a mass shooting at the Nevada factory.[402][349] The court ruled in Tesla's favor on September 17, 2020.[403][404]
+
+In January 2024, 25 California counties sued Tesla, accusing the company of violating state health and safety codes by illegally disposing of hazardous waste. Later that week, the case was settled on the conditions that Tesla pay US$1.5 million and admit to acting "intentionally" and "negligently". Moreover, Tesla also agreed to train its employees on hazardous waste disposal and to have 10 percent of Tesla's facilities audited for waste disposal for the next 5 years.[405][406][407]
+
+Property damage
+In August 2019, Walmart filed a multi-million-dollar lawsuit against Tesla, claiming that Tesla's "negligent installation and maintenance" of solar panels caused roof fires at seven Walmart stores dating back to 2012.[408] Walmart settled with Tesla in November 2019; the terms of the settlement were not disclosed.[409]
+
+In April 2021, a Norwegian judge found Tesla guilty of throttling charging speed through a 2019 over-the-air software update, after they failed to respond to the lawsuit. The 30 customers who were part of the lawsuit were awarded 136,000 Norwegian kroner each ($16,000).[410][411]
+
+Racism
+Tesla has faced numerous complaints regarding workplace harassment and racial discrimination,[412][413] with one former Tesla worker who attempted to sue the employer describing it as "a hotbed of racist behavior."[414] As of December 2021, three percent of leadership at the company were African-American.[415] A former Black worker described the work environment at Tesla's Buffalo plant as a "very racist place."[416] Tesla and SpaceX's treatment of Juneteenth in 2020 also came under fire.[417] Approximately 100 former employees have submitted signed statements alleging that the company discriminates specifically against African Americans and "allows a racist environment in its factories."[418]
+
+Few of these cases against Tesla ever make it to trial as most employees are made to sign arbitration agreements.[419] Employees are afterwards required to resolve such disputes out of court, and behind closed doors.[citation needed]
+
+Fremont, California, plant
+According to the state's Department of Fair Employment and Housing, the Fremont factory is a racially segregated place where Black employees claim they are given the most menial[412] and physically demanding work.[420] The accusations of racism culminated in February 2022 with the California Department of Fair Employment and Housing suing Tesla for "discriminating against its Black workers."[421]
+
+In July 2021, former employee Melvin Berry received $1 million in his discrimination case in arbitration against the company after he claimed he was referred to by the n-word and forced to work longer hours at the Fremont plant.[422]
+
+In October 2021, a jury verdict in the Owen Diaz vs. Tesla trial awarded the plaintiff $137 million in damages after he had faced racial harassment at Tesla's Fremont facility during 2015–2016.[423][424] In a blog, Tesla stressed that Diaz was never "really" a Tesla worker, and that most uttering of the n-word were expressed in a friendly manner.[425][426] In April 2022, federal judge William Orrick upheld the jury finding of Tesla's liability but reduced the total damage down to $15 million.[427] Diaz was given a two-week deadline to decide if he would collect the damages. In June 2022, Diaz announced that he would be rejecting the $15 million award, opening the door for a new trial.[428] In April 2023, Diaz was awarded $3.2 million in the new trial.[429]
+
+COVID-19 pandemic
+Tesla's initial response to the COVID-19 pandemic in the United States has been the subject of considerable criticism. Musk had sought to exempt the Tesla Fremont factory in Alameda County, California, from the government's stay-at-home orders. In an earnings call in April, he was heard calling the public health orders "fascist".[430] He had also called the public's response to the pandemic "dumb" and had said online that there would be zero cases by April.[431] In May 2020, while Alameda County officials were negotiating with the company to reopen the Fremont Factory on the 18th, Musk defied local government orders by restarting production on the 11th.[432][433][434] Tesla also sued Alameda County, questioning the legality of the orders, but backed down after the Fremont Factory was given approval to reopen.[435][436] In June 2020, Tesla published a detailed plan for bringing employees back to work and keeping them safe,[437] However, some employees still expressed concern for their health.[438]
+
+In May 2020, Musk told workers that they could stay home if they felt uncomfortable coming back to work.[439] But in June, Tesla dismissed an employee who criticized the company for taking inadequate safety measures to protect workers from the coronavirus at the Fremont Factory.[440] Three more employees at Tesla's Fremont Factory claimed they were laid off for staying home out of fear of catching COVID-19. This was subsequently denied by Tesla, which even stated that the employees were still on the payroll.[441] COVID-19 cases at the factory grew from 10 in May 2020 to 125 in December 2020, with about 450 total cases in that time out of the approximately 10,000 workers at the plant (4.5%).[430][442]
+
+In China, Tesla had what one executive described as "not a green light from the government to get back to work – but a flashing-sirens police escort."[443] Tesla enjoyed special treatment and strong government support in China, including tax breaks, cheap financing, and assistance in building its Giga Shanghai factory at breakneck speeds.[443] Musk has praised China's way of doing things, a controversial stance due to deteriorating US–Chinese relations, the persecution of Uyghurs in China, and alleged human rights abuses in Hong Kong.[443]
+
+Right to repair
+In March 2023, a class action antitrust lawsuit was filed against Tesla by Virginia M. Lambrix in San Francisco, alleging that the company unlawfully monopolized the market for maintenance and repair of its vehicles in violation of the Sherman Act and California antitrust law, as a result of which owners were "forced to pay supracompetitive prices and suffer exorbitant wait times" for maintenance services and repair parts.[444][445] The lawsuit was later combined with four other similar suits.[446][447]
+
+While six out of eight alleged antitrust violations were dismissed, in June 2024 US District Judge Trina Thompson allowed two claims to proceed, including alleged violations of California's Cartwright Act and Unfair Competition Law (UCL), with the court finding evidence of a repairs monopoly in Tesla's designing of its vehicles to require diagnostic and software updates that only the company could provide, and evidence of a parts monopoly in Tesla's restricting original equipment manufacturers from selling "to anyone other than Tesla."[446][447]
+
+TeslaTakedown protests
+Main article: Tesla Takedown
+In February 2025, numerous planned protests occurred outside of Tesla showrooms and service centers throughout the US. The protests were in response to Musk's contentious actions as leader of the Department of Government Efficiency (DOGE) at the beginning of Donald Trump's second term as US president.[448][449]
+
+Lawsuits against Tesla critics and vehicle malfunction complainants in China
+On February 12, 2025, the Associated Press reported that in China, Tesla had sued six car owners, six or more bloggers, and two media outlets for defamation since 2021. The car owners had complained publicly about Tesla's quality and accidents caused by major mechanical malfunctions, like brake failure. The bloggers and media outlets had written critically about the company. As of the date of publication, the Associated Press reported that Tesla had won 11 verdicts, two judgments were on appeal, and one had been settled outside court.[450]
+
+Criticism
+Main article: Criticism of Tesla, Inc.
+Data privacy
+In September 2023, a Tesla vehicle was the second product ever reviewed by the Mozilla Foundation that failed all of their privacy criteria.[451][452]
+
+A Tesla owner filed a lawsuit in 2023 following a Reuters report that Tesla employees shared "highly invasive videos and images recorded by customers' car cameras" with one another.[453]
+
+Internal data troves shared with various international government agencies and news organizations by former employee and whistleblower Lukasz Krupski in late 2023 implicated Tesla in "serious data protection lapse[s]."[454] The data Krupski retrieved included "information about current and former Tesla staff, including passport numbers, medical details and salaries" and was readily available on internal systems that most employees had access to.[455] As of November 2023, the Data Protection Authority in the Netherlands was investigating whether Tesla's alleged lack of internal security violated privacy laws.[456]
+
+Short sellers
+TSLAQ is a collective of Tesla skeptics and short-sellers who are vocally critical of Tesla and aim to "shape [the] perception [of Tesla] and move its stock."[457] In January 2020, 20% of Tesla stock was shorted, the highest at that time of any stock in the US equity markets.[458] By early 2021, according to CNN, short sellers had lost $40 billion during 2020 as the stock price climbed much higher.[459] Michael Burry, a short seller portrayed in The Big Short, had shorted Tesla previously via his firm Scion Asset Management, but removed his position in October 2021.[460]
+
+Tesla's mission
+According to automotive journalist Jamie Kitman, when multiple CEOs of major automotive manufacturers approached Tesla for EV technology that Musk had claimed the company was willing to share, they instead were offered the opportunity to buy regulatory credits from the company. This suggested, according to Kitman, that "the company may not be as eager for the electric revolution to occur as it claims."[461]
+
+Giga New York audit
+In 2020, the New York State Comptroller released an audit of the Giga New York factory project, concluding that it presented many red flags, including a lack of basic due diligence and that the factory itself produced only $0.54 in economic benefits for every $1 spent by the state.[462][463][464]
+
+Delays
+Musk has been criticized for repeatedly pushing out both production and release dates of products.[465][466] By one count in 2016, Musk had missed 20 projections.[467] In October 2017, Musk predicted that Model 3 production would be 5,000 units per week by December.[468] A month later, he revised that target to "sometime in March" 2018.[469] Delivery dates for the Model 3 were delayed as well.[470] Other projects like converting supercharger stations to be solar-powered have also lagged projections.[471] Musk responded in late 2018: "punctuality is not my strong suit...I never made a mass-produced car. How am I supposed to know with precision when it's gonna get done?"[472]
+
+Accolades
+In 2019, Model 3 earned the Top Safety Pick+ Award from the Insurance Institute for Highway Safety.[473] In 2022, Model Y has received the highest safety score of any car analyzed under Euro NCAP.[474]
+
+In 2022, Tesla won S&P Global Automotive Loyalty Awards in 7 categories.[475]
+
+In 2025, TIME magazine named Model S as one of the best inventions of the past 25 years, praising it as a "game-changing advance for electric vehicles".[476]
+
+Motor Trend has shortlisted Cybertruck for the magazine's 2025 Truck of the Year, praising its steer-by-wire system and other tech, but criticizing "the design's many compromises".[477]
+
+Vehicle product issues
+Recalls
+On April 20, 2017, Tesla issued a worldwide recall of 53,000 (~70%) of the 76,000 vehicles it sold in 2016 due to faulty parking brakes which could become stuck and "prevent the vehicles from moving".[478][479] On March 29, 2018, Tesla issued a worldwide recall of 123,000 Model S cars built before April 2016 due to corrosion-susceptible power steering bolts, which could fail and require the driver to use "increased force" to control the vehicle.[480]
+
+In October 2020, Tesla initiated a recall of nearly 50,000 Model X and Y vehicles throughout China for suspension issues.[481] Soon after in November, the NHTSA announced it had opened its investigation into 115,000 Tesla cars regarding "front suspension safety issues", citing specifically 2015–2017 Model S and 2016–2017 Model X years. Cases of the "whompy wheel" phenomenon, which also included Model X and the occasional Model 3 cars, have been documented through 2020.[482][483]
+
+In February 2021, Tesla was required by the NHTSA to recall 135,000 Model S and Model X vehicles built from 2012 to 2018 due to using a flash memory device that was rated to last only 5 to 6 years.[484] The problem was related to touchscreen failures that could possibly affect the rearview camera, safety systems, Autopilot and other features.[485][486] The underlying technical reason is that the car writes a large amount of syslog content to the device, wearing it out prematurely.[487]
+
+Also in February 2021, the German Federal Motor Transport Authority (KBA) ordered Tesla to recall 12,300 Model X cars because of "body mouldings problems".[488][489]
+
+In June 2021, Tesla recalled 5,974 electric vehicles due to worries that brake caliper bolts might become loose, which could lead to loss of tire pressure, increasing the chance of a crash.[490]
+
+On December 30, 2021, Tesla announced that it is recalling more than 475,000 US model vehicles. This included 356,309 Model 3 Tesla vehicles from 2017 to 2020 due to rear-view camera issues and a further 119,009 Tesla Model S vehicles due to potential problems with the trunk or boot. The Model S recall includes vehicles manufactured between 2014 and 2021. Around 1% of recalled Model 3s may have a defective rear-view camera, and around 14% of recalled Model S may have the defect. The recall was not linked to a contemporaneous issue regarding the "Passenger Play" feature, which allowed games to be played on the touchscreen while the car is in motion.[491] After an investigation was launched by the NHTSA covering 585,000 vehicles, Tesla agreed to make changes where the feature would be locked and unusable while the car is moving.[492]
+
+In September 2022, Tesla announced that it is recalling almost 1.1 million US model vehicles because the automatic window reversal system might not react correctly after detecting an obstruction, increasing the risk of injury.[493][494] In response,[clarification needed] Tesla announced an over-the-air software fix.[494]
+
+In February 2023, Tesla recalled its FSD software following a recommendation from NHTSA; the recall applied to approximately 360,000 cars.[495] NHTSA found that FSD caused "unreasonable risk" when used on city streets.[496] In March 2023, about 3,500 Model Y Teslas were recalled for a bolting issue concerning the cars' second-row seats.[497]
+
+In December 2023, following a 2-year investigation by the NHTSA,[498] Tesla issued a wider recall on all vehicles equipped with any version of Autosteer, including 2012–2023 Model S; 2016–2023 Model X; 2017–2023 Model 3; and 2020–2023 Model Y, covering 2,031,220 vehicles in total.[499] The NHTSA concluded that Autosteer's controls were not sufficient to prevent misuse and did not ensure that the drivers maintained "continuous and sustained responsibility for vehicle operation" and states that affected vehicles will receive an over-the-air software remedy.[499][500]
+
+Fires
+See also: Plug-in electric vehicle fire incidents § Tesla
+Tesla customers have reported the company as being "slow" to address how its cars can ignite.[501] In 2013, a Model S caught fire after the vehicle hit metal debris on a highway in Kent, Washington. Tesla confirmed the fire began in the battery pack and was caused by the impact of an object.[502] As a result of this and other incidents, Tesla announced its decision to extend its current vehicle warranty to cover fire damage.[503] In March 2014, the NHTSA announced that it had closed the investigation into whether the Model S was prone to catch fire, after Tesla said it would provide more protection to its battery packs.[504] All Model S cars manufactured after March 6, 2014, have had the 0.25-inch (6.4 mm) aluminum shield over the battery pack replaced with a new three-layer shield.[505] In October 2019, the NHTSA opened an investigation into possible battery defects in Tesla's Model S and X vehicles from 2012 to 2019 that could cause "non-crash" fires.[506][507][508]
+
+Autopilot crashes
+See also: List of Tesla Autopilot crashes
+A Model S driver died in a collision with a tractor-trailer in 2016, while the vehicle was in Autopilot mode; the driver is believed to be the first person to have died in a Tesla vehicle in Autopilot.[509][510] The NHTSA investigated the accident but found no safety-related defect trend.[511] In March 2018, a driver of a Tesla Model X was killed in a crash. Investigators say that the driver of the vehicle had his car in 'self-driving' mode and was using his phone to play games when the vehicle collided with the barrier in the middle of the freeway. Through investigation, the NTSB found that the Tesla malfunctioned due to the system being confused by an exit on the freeway.[512]
+
+According to a document released in June 2021, the NHTSA has initiated at least 30 investigations into Tesla crashes that were believed to involve the use of Autopilot, with some involving fatalities.[513][514] In early September 2021, the NHTSA updated the list with an additional fatality incident[515] and ordered Tesla to hand over all extensive[clarification needed] data pertaining to US cars with Autopilot to determine if there is a safety defect that leads Tesla cars to collide with first-responder vehicles.[515][516][517] In late September 2021, Tesla released an over-the-air software update to detect emergency lights at night.[518] In October 2021, the NHTSA asked Tesla why it did not issue a recall when it sent out that update.[519] In June 2022, the NHTSA said it would expand its probe, extending it to 830,000 cars from all current Tesla models. The probe was moved up from the Preliminary Evaluation level to Engineering Analysis. The regulator cited the reason for the expansion as the need to "explore the degree to which Autopilot and associated Tesla systems may exacerbate human factors or behavioral safety risks by undermining the effectiveness of the driver's supervision."[520]
+
+A safety test conducted by the Dawn Project in August 2022 demonstrated that a test driver using the beta version of Full Self-Driving repeatedly hit a child-sized mannequin in its path,[521] but there has been controversy over its conclusions.[522] Several Tesla owners responded by conducting their own, independent tests using children; NHTSA released a statement warning against the practice.[523]
+
+In 2025, the California DMV filed a lawsuit against Tesla, claiming it had misled drivers about its vehicles' self-driving capabilities. The DMV sought to suspend Tesla's sales and manufacturing in the state of California for a minimum of 30 days.[524][525]
+
+Software hacking
+In August 2015, two researchers said they were able to take control of a Tesla Model S by hacking into the car's entertainment system.[526] The hack required the researchers to physically access the car.[527] Tesla issued a security update for the Model S the day after the exploit was announced.[528]
+
+In September 2016, researchers at Tencent's Keen Security Lab demonstrated a remote attack on a Tesla Model S and controlled the vehicle in both Parking and Driving Mode without physical access. They were able to compromise the automotive networking bus (CAN bus) when the vehicle's web browser was used while the vehicle was connected to a malicious Wi-Fi hotspot.[529] This was the first case of a remote control exploit demonstrated on a Tesla. The vulnerability was disclosed to Tesla under its bug bounty program and patched within 10 days, before the exploit was made public.[530] Tencent also hacked the doors of a Model X in 2017.[531]
+
+In January 2018, security researchers informed Tesla that an Amazon Web Services account of theirs could be accessed directly from the Internet and that the account had been exploited for cryptocurrency mining. Tesla responded by securing the compromised system, rewarding the security researchers financially via its bug bounty program, and stating that the compromise did not violate customer privacy, nor vehicle safety or security.[532][533] Later in 2019, Tesla awarded a car and $375,000 to ethical hackers during a Pwn2Own Model 3 hacking event.[534]
+
+In June 2022, Martin Herfurt, a security researcher in Austria, discovered that changes made to make Tesla vehicles easier to start with NFC cards also allowed for pairing new keys to the vehicle, allowing an attacker to enroll their keys to a vehicle.[535]
+
+Phantom braking
+
+This section needs to be updated. Please help update this article to reflect recent events or newly available information. (August 2025)
+In February 2022, Tesla drivers reported a surge in "phantom braking" events when using Tesla Autopilot, which coincides with the automaker's removal of radar as a supplemental sensor in May 2021.[536] In response, NHTSA opened an investigation the same month.[537] In August 2022, a consumer class action was filed alleging that the Autopilot system in Tesla cars "contains a hazardous defect which causes the vehicle to suddenly and unintentionally brake".[538][539] In November 2024, Tesla failed to persuade a US District Judge to dismiss the lawsuit.[540] The next court date is January 7, 2025.[540]
+
+In May 2023, German business newspaper Handelsblatt published a series of articles based on a trove of internal Tesla data submitted to them from informants.[541] The 100 gigabytes of data "contain[ed] over 1,000 accident reports involving phantom braking or unintended acceleration" as well as complaints about Tesla Autopilot.[542] Dutch authorities responded by saying they were investigating the company for possible data privacy violations.[543]
+
+In February 2025, a German court declared Tesla Autopilot defective for normal use due to phantom braking issues.[544]
+
+In February 2025, a group of Australian buyers sued Tesla with a class action over multiple issues like battery range, driving assistance, and phantom braking.[545]
+
+Driving range performance
+Tesla has received thousands of complaints from owners that the driving ranges of their vehicles did not meet the ranges advertised by Tesla or the projections of in-dash range meters. When service centers were overwhelmed with appointments to take care of these issues, Tesla established a diversion team to cancel as many appointments as possible. Customers were told that remote diagnostics had determined there was no problem, and their appointments were canceled. The company has been fined by South Korean regulators for its exaggerated range estimates.[546]
+
+Vehicle sales
+In 2024, Tesla ranked as the world's best-selling battery electric passenger car manufacturer, with a market share of 17.6%.[547] Tesla reported 2023 vehicle deliveries of 1.8 million units, up 38% from 2022.[548][549] In March 2024, Tesla produced its six millionth car.[550] In Q4 2023, Tesla's competitor BYD, a chinese EV company, took over the top spot for EVs shipped, but Tesla regained the title in Q1 2024.[551] On January 2, 2026, BYD became the bestselling electric vehicle maker across the globe and surpassed Tesla as the largest EV maker.[552]
+
+Tesla sells the most vehicles in the US (674,000+ in 2023) and has received $11.4 billion in regulatory credits from federal and state governments. The federal government previously provided a $7500 rebate to customers.[553][554][555] Tesla received around $426 million from the Chinese government for cars manufactured at its Shanghai facility.[556] Germany was Tesla's third-largest market in 2023, selling 63,682 units. Germany ended its EV subsidy program in December 2023. Under the program, a €6,750 discount was provided with Tesla paying €2,250. Tesla announced it would cover the entire discount going forward.[557] In 2023, over 63,000 Teslas were sold in France with customers receiving up to €7,000 via the bonus écologique. The government decreased the budget for EV aid from €1.5 billion to €700 million in 2024.[558] Canada was in Tesla's top five markets in 2023 with over 52,000 vehicles sold. In 2025, Tesla was accused of having "a run on the bank" when it sold a historic 8,600 vehicles in 72 hours before Canada's EV rebate program's funds were depleted. Tesla claimed 4000 vehicles alone were sold over one weekend in Quebec City.[559][560] The Government of Canada announced on March 25, 2025, that it had suspended the rebates and was investigating. The government also declared Tesla would be ineligible for any future rebates as long as the US tariffs on Canadian products continued.[561] Musk has stated he is against government subsidies but will take them if they are available.[562]
+
+Sales have been negatively impacted by Musk's actions during the second Trump presidency.[563][564] Tesla sales have decreased worldwide (the most in countries like France, Germany, the UK, Sweden, Norway, and the Netherlands)[565][566] with his vocal support for far-right parties such as Reform UK[567] and AfD[568] in Germany along with his Nazi salute controversy leading to boycotts of his products and Tesla vehicles being nicknamed Swasticars, a portmanteau of swastika and car.[575] German sales fell 76% in February 2025 compared to February 2024.[576][577]
+
+Tesla's shares dropped over 9 percent after its sales in the EU and UK declined by nearly half in January 2025, bringing its valuation below $1 trillion for the first time since November 2024. While European electric car sales surged, Tesla struggled against rising competition, particularly from Chinese automakers.[578] In May 2025, it was reported that the company's sales in Europe declined every month since the start of the year, including in April where sales dropped 49 percent to 7,261 from 14,228 in April 2024.[579] As of May 2025, the company has a 0.7 percent market share in Europe, down from 1.3 percent a year ago.[579]
+
+Production and sales by quarter
+See also: History of Tesla, Inc. § Timeline of production and sales
+100,000200,000300,000400,000500,000600,0003 2012412 20133412 20143412 20153412 20163412 20173412 20183412 20193412 20203412 20213412 20223412 20233412 20243412 2025341 2026
+  Model S
+  Model X
+  Model S/X
+  Models Other Than 3/Y
+  Model 3
+  Model 3/Y
+
+Tesla deliveries vary significantly by month due to regional issues such as availability of car carriers and registration. On March 9, 2020, the company produced its 1 millionth electric car, becoming the first auto manufacturer to achieve such a milestone.[580] In the third quarter of 2021, Tesla sold its 2 millionth electric car, becoming the first auto manufacturer to achieve such a milestone.[581] In the first quarter of 2023, the Model Y became the world's best-selling car, surpassing the Toyota Corolla.[582]
+
+Finances
+View chart definition.
+Tesla financial performance (in Billion USD)
+For the fiscal (and calendar) year 2021, Tesla reported a net income of $5.52 billion.[583] The annual revenue was $53.8 billion, an increase of 71% over the previous fiscal year.[583]
+
+Sales by business (2024)[584]
+Business	Sales in billion $	Share
+Automotive	87.6	89.7%
+Energy Generation and Storage	10.1	10.3%
+Sales by region (2024)[584]
+Region	Sales in billion $	Share
+United States	47.7	48.9%
+Other countries	29.0	29.7%
+China	20.9	21.4%
+Of the revenue number in 2021, $314 million came from selling regulatory credits to other automakers to meet government pollution standards. That number has been a smaller percentage of revenue for multiple quarters.[583]
+
+Tesla ended 2021 with $17.6 billion of cash on hand, down $1.8 billion from the end of 2020.[178]: 31 
+
+In February 2021, a 10-K filing revealed that Tesla had invested some $1.5 billion in the cryptocurrency bitcoin, and the company indicated it would soon accept bitcoin as a form of payment.[87] Critics then pointed out how investing in cryptocurrency can run counter to Tesla's environmental goals.[585][586] Tesla made more profit from the 2021 investment than the profit from selling cars in 2020, due to the Bitcoin price increase after the investment was announced.[587][588]
+
+The quarter ending June 2021 was the first time Tesla made a profit independent of Bitcoin and regulatory credits.[589] Between 2015 and 2024, a third of Tesla's profits came from government climate credits.[590]
+
+The key trends for Tesla are (as at the financial year ending December 31):
+
+Year	Revenue
+(US$ m)	Net income
+(US$ m)	Total assets
+(US$ m)	Employees	Ref.
+2005	0	−12	8		
+2006	0	−30	44	70	[591][592]
+2007	0	−78	34	268	
+2008	15	−83	52	252	
+2009	112	−56	130	514	
+2010	117	−154	386	899	[592]
+2011	204	−254	713	1,417	[592]
+2012	413	−396	1,114	2,914	[592]
+2013	2,013	−74	2,417	5,859	[592]
+2014	3,198	−294	5,831	10,161	[592]
+2015	4,046	−889	8,068	13,058	[592]
+2016	7,000	−675	22,664	17,782	[592]
+2017	11,759	−1,962	28,655	37,543	[592]
+2018	21,461	−976	29,740	48,817	[592]
+2019	24,578	−862	34,309	48,016	[592]
+2020	31,536	721	52,148	70,757	[592]
+2021	53,823	5,519	62,131	99,290	[592]
+2022	81,462	12,556	82,338	127,855	[592]
+2023	96,773	14,997	106,618	140,473	[592]
+2024	97,690	7,091	122,070	125,665	[592]
+2025	94,827	3,794	137,806	134,785	[592]
+Corporate affairs
+List of chief executives
+Martin Eberhard (2004–2007)
+Ze'ev Drori (2007–2008)[13][593]
+Elon Musk (since October 2008)[594]
+List of board chairs
+Elon Musk (2004–2018)[595]
+Robyn Denholm (since November 2018)[594]
+Board of directors
+Tesla has received criticism that its board lacks enough independent directors. In an April 2017 public letter, a group of influential Tesla investors, including the California State Teachers' Retirement System, asked Tesla to add two new independent directors to its board "who do not have any ties" with Musk,[596] writing that "five of six current non-executive directors have professional or personal ties to Mr. Musk that could put at risk their ability to exercise independent judgement."[597] Tesla's directors at the time included Brad Buss, who served as chief financial officer at SolarCity; Steve Jurvetson, a venture capitalist who also sits on the board of SpaceX;[598] Elon Musk's brother, Kimbal; and Ira Ehrenpreis and Antonio Gracias, both of whom also invested in SpaceX.[599] The letter called for a more independent board that could put a check on groupthink.[597] At first Musk responded on Twitter, writing that the investors "should buy Ford stock" because "their governance is amazing."[597] Two days later, he promised he would add two independent board members;[600] Kathleen Wilson-Thompson and Larry Ellison were added at the end of 2018.[601] Ellison stepped down in August 2022.[602] Former Tesla CTO J. B. Straubel, who left the company in 2019, was elected to the board in 2023.[603]
