@@ -23,7 +23,14 @@
 - **Multimodal / vision summary** — a searchable text description of a chunk's tables and images, written by a vision LLM and embedded in place of (a copy of) the raw content.
 - **Base64 image payload** — an image encoded as text so it can be embedded in JSON metadata and passed inline to a vision model.
 - **Multimodal RAG** — RAG where retrieved context and the final prompt include images and tables, not just text.
+- **Score threshold** — a minimum similarity score a chunk must beat to be returned; results below it are dropped, so fewer than `k` may come back.
+- **MMR (Max Marginal Relevance)** — a retrieval mode that picks results that are both relevant to the query and different from each other, to avoid near-duplicate chunks.
+- **`fetch_k`** — how many candidate chunks MMR pulls before re-ranking them down to `k`.
+- **`lambda_mult`** — the MMR knob trading relevance against diversity (0 = max diversity, 1 = max relevance).
+- **Multi-query retrieval** — rephrasing the question into several variations, searching each, and combining the results to improve recall.
+- **Reciprocal Rank Fusion (RRF)** — merging several ranked lists by scoring each item `1 / (k + position)` per list and summing; items ranked well across lists rise to the top.
+- **RRF constant `k`** — a damping constant (here 60) that limits how much any single top-ranked result dominates the fused score.
 
 ---
 
-[← Chapter 4 — Multimodal RAG](04-multimodal-rag.md) · [Handbook contents](../README.md#the-handbook)
+[← Chapter 5 — Advanced Retrieval](05-advanced-retrieval.md) · [Handbook contents](../README.md#the-handbook)

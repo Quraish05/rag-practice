@@ -241,4 +241,4 @@ print(final_answer)
 
 ---
 
-[← Chapter 3 — Conversational RAG](03-conversational-rag.md) · [Handbook contents](../README.md#the-handbook) · [Glossary →](glossary.md)
+[← Chapter 3 — Conversational RAG](03-conversational-rag.md) · [Handbook contents](../README.md#the-handbook) · [Next: Chapter 5 — Advanced Retrieval →](05-advanced-retrieval.md)
