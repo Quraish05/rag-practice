@@ -277,4 +277,4 @@ The top entries are the chunks several query variations agreed on, so their scor
 
 ---
 
-[← Chapter 4 — Multimodal RAG](04-multimodal-rag.md) · [Handbook contents](../README.md#the-handbook) · [Glossary →](glossary.md)
+[← Chapter 4 — Multimodal RAG](04-multimodal-rag.md) · [Handbook contents](../README.md#the-handbook) · [Next: Chapter 6 — Hybrid Search →](06-hybrid-search.md)

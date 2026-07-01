@@ -30,7 +30,21 @@
 - **Multi-query retrieval** — rephrasing the question into several variations, searching each, and combining the results to improve recall.
 - **Reciprocal Rank Fusion (RRF)** — merging several ranked lists by scoring each item `1 / (k + position)` per list and summing; items ranked well across lists rise to the top.
 - **RRF constant `k`** — a damping constant (here 60) that limits how much any single top-ranked result dominates the fused score.
+- **Hybrid search** — combining dense (vector) and sparse (keyword) retrieval, then fusing the two result lists.
+- **Dense retrieval** — ranking by embedding similarity; matches meaning rather than exact words.
+- **Sparse retrieval** — ranking by term overlap (keyword search); matches exact words rather than meaning.
+- **BM25** — the standard keyword-ranking algorithm, scoring chunks on Term Frequency and Inverse Document Frequency.
+- **TF (Term Frequency)** — how often a query term appears in a given chunk.
+- **IDF (Inverse Document Frequency)** — how rare a term is across the whole collection; rarer matching terms score higher.
+- **EnsembleRetriever** — LangChain retriever that fuses several retrievers' results via weighted RRF.
+- **Weighted RRF** — reciprocal rank fusion where each retriever's `1/(k+rank)` contribution is scaled by a weight before summing.
+- **Reranker** — a second-stage model that rescores a retrieved candidate pool for relevance and keeps the best `top_n`.
+- **Two-stage retrieval** — retrieve a large candidate pool cheaply, then rerank it precisely with a slower, more accurate model.
+- **Bi-encoder** — encodes query and chunk separately into vectors that can be precomputed; fast but approximate (the embedding model).
+- **Cross-encoder** — encodes query and chunk together to score relevance directly; accurate but slow, with no precomputation (the reranker).
+- **Candidate pool** — the larger set of chunks the retriever surfaces to hand to the reranker.
+- **`top_n`** — how many chunks a reranker keeps after rescoring the candidate pool.
 
 ---
 
-[← Chapter 5 — Advanced Retrieval](05-advanced-retrieval.md) · [Handbook contents](../README.md#the-handbook)
+[← Chapter 7 — Reranking](07-reranking.md) · [Handbook contents](../README.md#the-handbook)

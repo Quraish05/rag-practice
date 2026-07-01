@@ -24,6 +24,8 @@ A sequential walk from first principles to a full multimodal pipeline. Each chap
 | 3 | [Conversational RAG](handbook/03-conversational-rag.md) | History-aware retrieval with query rewriting | [history_aware_generation.py](history_aware_generation.py) |
 | 4 | [Multimodal RAG over PDFs](handbook/04-multimodal-rag.md) | Partitioning, vision summaries, multimodal answers (with screenshots) | [multi_modal_rag.ipynb](multi_modal_rag.ipynb) |
 | 5 | [Advanced Retrieval](handbook/05-advanced-retrieval.md) | Score threshold, MMR, multi-query, and reciprocal rank fusion (with screenshots) | [retrieval_methods.py](retrieval_methods.py), [multi_query_retrieval.py](multi_query_retrieval.py), [reciprocal_rank_fusion.py](reciprocal_rank_fusion.py) |
+| 6 | [Hybrid Search](handbook/06-hybrid-search.md) | Dense + sparse (BM25) retrieval fused with weighted RRF via EnsembleRetriever | [hybrid_search.ipynb](hybrid_search.ipynb) |
+| 7 | [Reranking](handbook/07-reranking.md) | Two-stage retrieve-then-rerank with a local cross-encoder | [reranker.ipynb](reranker.ipynb) |
 | — | [Glossary](handbook/glossary.md) | Plain-English definitions of every term used | — |
 
 **Suggested path:** read the chapters in order. To run the code, build the vector store with `ingestion_pipeline.py` first, then query it with `retrieval_pipeline.py` and `history_aware_generation.py`. The chunking scripts are standalone. The notebook is self-contained end-to-end.
@@ -38,6 +40,8 @@ A sequential walk from first principles to a full multimodal pipeline. Each chap
 | [retrieval_pipeline.py](retrieval_pipeline.py) | Similarity search + RAG answer generation |
 | [history_aware_generation.py](history_aware_generation.py) | Conversational RAG with query rewriting |
 | [multi_modal_rag.ipynb](multi_modal_rag.ipynb) | Multimodal RAG over a PDF (text + tables + images) with Claude Opus vision |
+| [hybrid_search.ipynb](hybrid_search.ipynb) | Hybrid search: dense + BM25 retrieval fused with weighted RRF (EnsembleRetriever) |
+| [reranker.ipynb](reranker.ipynb) | Two-stage retrieve-then-rerank with a local cross-encoder (CrossEncoderReranker) |
 | [retrieval_methods.py](retrieval_methods.py) | Similarity, score-threshold, and MMR retrieval side by side |
 | [multi_query_retrieval.py](multi_query_retrieval.py) | Multi-query generation + reciprocal rank fusion (compact) |
 | [reciprocal_rank_fusion.py](reciprocal_rank_fusion.py) | Verbose RRF walkthrough with per-position scores |
